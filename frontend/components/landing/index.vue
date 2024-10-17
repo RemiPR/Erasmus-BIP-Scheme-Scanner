@@ -86,9 +86,17 @@
 
         <!-- Left Column: Text and Buttons with more margin -->
         <div class="relative text-left space-y-6 lg:pr-16 lg:ml-10">
-          <h1 class="text-5xl lg:text-6xl font-extrabold text-white">
-            Scheme Scanner
-          </h1>
+          <div class="flex items-center">
+            <h1 class="text-5xl lg:text-6xl font-extrabold text-white">
+              Scheme Scanner
+            </h1>
+            <video autoplay loop muted playsinline>
+              <!-- Path for a file in the static folder -->
+              <source src="/animation.webm" type="video/webm" />
+              <!-- Alternative text or fallback message -->
+              Your browser does not support the video tag.
+            </video>
+          </div>
           <p class="text-xl text-gray-200 leading-loose">
             Scan and upload your PFD, P&ID schemes with ease.
             <span class="block"
