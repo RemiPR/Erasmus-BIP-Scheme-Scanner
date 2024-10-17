@@ -119,7 +119,7 @@
                 xmlns:svgjs="http://svgjs.com/svgjs"
               >
                 <g
-                  id="freepik--background-complete--inject-68"
+                  id="freepik--background-complete--inject-17"
                   class="animable"
                   style="transform-origin: 250px 228.23px"
                 >
@@ -129,7 +129,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 140.46px 196.4px;
                     "
-                    id="elqry4of1r34m"
+                    id="el74qivnszpoo"
                     class="animable"
                   ></path>
                   <path
@@ -138,7 +138,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 356.75px 196.4px;
                     "
-                    id="eltz79e3inlp"
+                    id="ellb6q0zolyce"
                     class="animable"
                   ></path>
                   <rect
@@ -150,7 +150,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 433.34px 398.615px;
                     "
-                    id="eleoab7oyy4pq"
+                    id="elupwk8bzdpq"
                     class="animable"
                   ></rect>
                   <rect
@@ -162,7 +162,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 326.875px 401.335px;
                     "
-                    id="el5fzztj1gy2a"
+                    id="el0ym7gj459f1"
                     class="animable"
                   ></rect>
                   <rect
@@ -174,7 +174,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 406.185px 389.335px;
                     "
-                    id="elc8adlmhj11g"
+                    id="elt8duprp5hi"
                     class="animable"
                   ></rect>
                   <rect
@@ -186,7 +186,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 74.055px 391.015px;
                     "
-                    id="ellmdmrdu9ln8"
+                    id="elu56rvhweov9"
                     class="animable"
                   ></rect>
                   <rect
@@ -198,7 +198,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 107.725px 391.015px;
                     "
-                    id="el2vy1wudxzlp"
+                    id="elg5kszqpwa2f"
                     class="animable"
                   ></rect>
                   <rect
@@ -210,7 +210,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 178.31px 395.235px;
                     "
-                    id="elyjcrqoqssu"
+                    id="el1jz9kb99z9t"
                     class="animable"
                   ></rect>
                   <rect
@@ -221,7 +221,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 250px 382.525px;
                     "
-                    id="elxx7bhaan98"
+                    id="elw6n6581xm8"
                     class="animable"
                   ></rect>
                   <rect
@@ -233,7 +233,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 96.13px 182.06px;
                     "
-                    id="el3q043m0uecl"
+                    id="elorlwkb9qga"
                     class="animable"
                   ></rect>
                   <rect
@@ -245,7 +245,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 100.46px 182.06px;
                     "
-                    id="elsm63niidu2d"
+                    id="elfizvqwdxl24"
                     class="animable"
                   ></rect>
                   <rect
@@ -257,7 +257,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 100.345px 222.91px;
                     "
-                    id="ell5pph3jeb"
+                    id="elmys5ff9m07s"
                     class="animable"
                   ></rect>
                   <rect
@@ -269,7 +269,7 @@
                       fill: rgb(255, 255, 255);
                       transform-origin: 100.345px 144.63px;
                     "
-                    id="elvmfvn1h57m"
+                    id="els9jfyzetcbk"
                     class="animable"
                   ></rect>
                   <rect
@@ -281,10 +281,10 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 151.455px 180.5px;
                     "
-                    id="eledmd18taqni"
+                    id="el1exjxawsgc"
                     class="animable"
                   ></rect>
-                  <g id="ellbnk468241o">
+                  <g id="elv9sd0nrz0zh">
                     <rect
                       x="96.62"
                       y="137.46"
@@ -296,6 +296,7 @@
                         transform: rotate(-90deg);
                       "
                       class="animable"
+                      id="el0fkl8bmi1puh"
                     ></rect>
                   </g>
                   <rect
@@ -307,7 +308,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 99.345px 183.865px;
                     "
-                    id="el0vol3sr97sj"
+                    id="elfjxzfk0m5mp"
                     class="animable"
                   ></rect>
                   <rect
@@ -320,7 +321,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 366.49px 342.535px;
                     "
-                    id="el4xb1ii70z6n"
+                    id="eldjmgc41fn6k"
                     class="animable"
                   ></rect>
                   <rect
@@ -333,7 +334,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 356.86px 343.135px;
                     "
-                    id="elz2ju2tv9hgf"
+                    id="elwbkflq3wxm"
                     class="animable"
                   ></rect>
                   <path
@@ -342,7 +343,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 357.42px 325.17px;
                     "
-                    id="eld1ggq2xrjpa"
+                    id="elka6vk322u5o"
                     class="animable"
                   ></path>
                   <path
@@ -351,7 +352,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 357.42px 359.9px;
                     "
-                    id="el2gtk68in3hu"
+                    id="elps9w8k9w4nr"
                     class="animable"
                   ></path>
                   <rect
@@ -363,7 +364,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 380.395px 328.225px;
                     "
-                    id="el3a2mv0krgtx"
+                    id="eltw44ksyu4qj"
                     class="animable"
                   ></rect>
                   <rect
@@ -375,7 +376,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 361.435px 328.225px;
                     "
-                    id="el5pf6i8wwofg"
+                    id="elk32qbq6nck"
                     class="animable"
                   ></rect>
                   <path
@@ -384,7 +385,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 361.46px 334px;
                     "
-                    id="elc680uf8v6e7"
+                    id="el9fmj9dvro5t"
                     class="animable"
                   ></path>
                   <rect
@@ -396,7 +397,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 392.07px 326.305px;
                     "
-                    id="ela7vxe5ud6qo"
+                    id="el3h2uljpc37h"
                     class="animable"
                   ></rect>
                   <rect
@@ -408,7 +409,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 377.46px 326.305px;
                     "
-                    id="elm1qw57qsohs"
+                    id="elluqvcytj3cg"
                     class="animable"
                   ></rect>
                   <circle
@@ -419,7 +420,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 377.46px 316.12px;
                     "
-                    id="elumygmul7hs"
+                    id="elf1mcongwo26"
                     class="animable"
                   ></circle>
                   <circle
@@ -430,7 +431,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 377.46px 316.12px;
                     "
-                    id="elvjq31srijyk"
+                    id="el79z4ot8861r"
                     class="animable"
                   ></circle>
                   <rect
@@ -442,7 +443,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 396.97px 328.225px;
                     "
-                    id="eltghjxd63d0m"
+                    id="elsagu1ahxrka"
                     class="animable"
                   ></rect>
                   <rect
@@ -454,7 +455,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 385.225px 328.225px;
                     "
-                    id="el9s5amucllyp"
+                    id="eltrc28dw7e68"
                     class="animable"
                   ></rect>
                   <rect
@@ -466,7 +467,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 415.6px 330.335px;
                     "
-                    id="elecgh3zchqt5"
+                    id="elfwumfp6u15u"
                     class="animable"
                   ></rect>
                   <rect
@@ -478,7 +479,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 399.85px 330.335px;
                     "
-                    id="elpfqao12scz"
+                    id="elwzy5bbhmsvg"
                     class="animable"
                   ></rect>
                   <rect
@@ -490,7 +491,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 425.29px 328.735px;
                     "
-                    id="el0do4y13mdsec"
+                    id="elsvmubx4xbqq"
                     class="animable"
                   ></rect>
                   <rect
@@ -502,7 +503,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 413.165px 328.735px;
                     "
-                    id="eluedlrpdsgks"
+                    id="elaz928ehox3g"
                     class="animable"
                   ></rect>
                   <rect
@@ -514,7 +515,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 430.58px 330.335px;
                     "
-                    id="eljv5a0obbb2"
+                    id="elyxzbbm9if8"
                     class="animable"
                   ></rect>
                   <rect
@@ -526,7 +527,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 419.605px 330.335px;
                     "
-                    id="eli8c1v4c6mqe"
+                    id="elyn2uxwalkr"
                     class="animable"
                   ></rect>
                   <rect
@@ -538,7 +539,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 311.645px 361.815px;
                     "
-                    id="eltj43gpblh6b"
+                    id="el58vqq739tlf"
                     class="animable"
                   ></rect>
                   <rect
@@ -550,7 +551,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 296.975px 361.815px;
                     "
-                    id="elihgup5fh8t"
+                    id="elvkx5pk9krj"
                     class="animable"
                   ></rect>
                   <rect
@@ -562,7 +563,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 320.675px 359.895px;
                     "
-                    id="elx4dvos501g"
+                    id="el8513bsvnpqt"
                     class="animable"
                   ></rect>
                   <rect
@@ -574,7 +575,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 309.375px 359.895px;
                     "
-                    id="elvdjm8c44xmp"
+                    id="elixnx2zp3fy"
                     class="animable"
                   ></rect>
                   <rect
@@ -586,7 +587,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 391.365px 361.815px;
                     "
-                    id="el4g7lf2lr1g5"
+                    id="elhy72ecybg9n"
                     class="animable"
                   ></rect>
                   <rect
@@ -598,7 +599,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 376.695px 361.815px;
                     "
-                    id="elfacedzi8h8f"
+                    id="eloa8nux4mis"
                     class="animable"
                   ></rect>
                   <rect
@@ -610,7 +611,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 400.395px 359.895px;
                     "
-                    id="eln0nbmd1v0gr"
+                    id="ellg33n0iqri"
                     class="animable"
                   ></rect>
                   <rect
@@ -622,7 +623,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 389.1px 359.895px;
                     "
-                    id="eluzvjbmf14un"
+                    id="eln6kn16fknhm"
                     class="animable"
                   ></rect>
                   <rect
@@ -634,7 +635,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 324.48px 361.815px;
                     "
-                    id="el2qos525o5ob"
+                    id="el3ekcl2xac1s"
                     class="animable"
                   ></rect>
                   <rect
@@ -646,7 +647,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 315.39px 361.815px;
                     "
-                    id="eltmqjpbsc5k9"
+                    id="el7blstrif68m"
                     class="animable"
                   ></rect>
                   <rect
@@ -658,7 +659,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 338.895px 363.925px;
                     "
-                    id="eln11vix6bzc"
+                    id="el01xbndl341p8"
                     class="animable"
                   ></rect>
                   <rect
@@ -670,7 +671,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 326.705px 363.925px;
                     "
-                    id="elzqxp29eryli"
+                    id="el5jw1lljbrl8"
                     class="animable"
                   ></rect>
                   <rect
@@ -682,7 +683,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 346.4px 362.325px;
                     "
-                    id="eloa99wysg8m"
+                    id="eln00gmsy445"
                     class="animable"
                   ></rect>
                   <rect
@@ -694,7 +695,7 @@
                       fill: rgb(245, 245, 245);
                       transform-origin: 337.01px 362.325px;
                     "
-                    id="el19j60yn3t3z"
+                    id="elsirlwycnepm"
                     class="animable"
                   ></rect>
                   <rect
@@ -706,7 +707,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 350.495px 363.925px;
                     "
-                    id="el5kcq5yf5quy"
+                    id="elb210u9aulpq"
                     class="animable"
                   ></rect>
                   <rect
@@ -718,7 +719,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 341.995px 363.925px;
                     "
-                    id="elc9vz7q08a1j"
+                    id="el5w2t4wgvhj4"
                     class="animable"
                   ></rect>
                   <path
@@ -727,7 +728,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 341.983px 284.782px;
                     "
-                    id="eluj5c6stvd5d"
+                    id="elcohv4ddj5t5"
                     class="animable"
                   ></path>
                   <path
@@ -736,7 +737,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 341.353px 285.952px;
                     "
-                    id="elssh8wij913"
+                    id="el5i4dnzn7me"
                     class="animable"
                   ></path>
                   <path
@@ -745,7 +746,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 350.595px 285.405px;
                     "
-                    id="elexkhvoj60ch"
+                    id="el7bejhcqko0x"
                     class="animable"
                   ></path>
                   <path
@@ -754,7 +755,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 336.409px 281.116px;
                     "
-                    id="elzll403rn26j"
+                    id="elmgt5kj8y8xd"
                     class="animable"
                   ></path>
                   <path
@@ -763,7 +764,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 334.478px 285.248px;
                     "
-                    id="el0eyz799ypwh"
+                    id="ele8zstinjv8r"
                     class="animable"
                   ></path>
                   <path
@@ -772,7 +773,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 346.741px 284.79px;
                     "
-                    id="ell22szjd9iyr"
+                    id="elmt372t645fc"
                     class="animable"
                   ></path>
                   <path
@@ -781,7 +782,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 340.214px 282.847px;
                     "
-                    id="elw0y66u80th"
+                    id="elsq8w73d1b7"
                     class="animable"
                   ></path>
                   <path
@@ -790,7 +791,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 344.46px 281.4px;
                     "
-                    id="elv0qiaqukcl"
+                    id="el64k820ly8eg"
                     class="animable"
                   ></path>
                   <path
@@ -799,7 +800,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 349.55px 282.896px;
                     "
-                    id="elj8x7t3t5ci"
+                    id="elc8ipuwvngfr"
                     class="animable"
                   ></path>
                   <path
@@ -808,7 +809,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 342.948px 279.196px;
                     "
-                    id="el3qb1s58qw8s"
+                    id="el6cp2yffasrq"
                     class="animable"
                   ></path>
                   <polygon
@@ -817,7 +818,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 341.895px 295.345px;
                     "
-                    id="elvtvs99718yr"
+                    id="el9dwoz2immn8"
                     class="animable"
                   ></polygon>
                   <polygon
@@ -826,7 +827,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 341.835px 288.7px;
                     "
-                    id="elqr3in4w0i28"
+                    id="elp52hjddlylm"
                     class="animable"
                   ></polygon>
                   <polygon
@@ -835,7 +836,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 327.65px 332.13px;
                     "
-                    id="elhdk589calwh"
+                    id="eleypak26i8a6"
                     class="animable"
                   ></polygon>
                   <polygon
@@ -844,7 +845,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 313.625px 332.13px;
                     "
-                    id="el3m1zoe187br"
+                    id="el0vkd4460j8j"
                     class="animable"
                   ></polygon>
                   <polygon
@@ -853,7 +854,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 308.985px 332.13px;
                     "
-                    id="el07cim8ucw4rd"
+                    id="elxqsk7880htf"
                     class="animable"
                   ></polygon>
                   <polygon
@@ -862,7 +863,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 311.575px 324.71px;
                     "
-                    id="elcfs56owf81t"
+                    id="elsbxv3nwbphh"
                     class="animable"
                   ></polygon>
                   <path
@@ -871,7 +872,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 299.64px 329.84px;
                     "
-                    id="ely2b79mu7zx"
+                    id="eljapfeqdnjf"
                     class="animable"
                   ></path>
                   <path
@@ -880,7 +881,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 306.5px 329.84px;
                     "
-                    id="eljo66s4j3sqs"
+                    id="eljtlmumj80rs"
                     class="animable"
                   ></path>
                   <path
@@ -889,7 +890,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 313.35px 329.84px;
                     "
-                    id="el8stay9g3sst"
+                    id="ela48ko3287wg"
                     class="animable"
                   ></path>
                   <path
@@ -898,7 +899,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 320.21px 329.84px;
                     "
-                    id="elmmawpfzjzie"
+                    id="el9v3zdvovn8f"
                     class="animable"
                   ></path>
                   <path
@@ -907,7 +908,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 297.5px 336.25px;
                     "
-                    id="el4khxstd14sn"
+                    id="elic2hcecq6p"
                     class="animable"
                   ></path>
                   <path
@@ -916,7 +917,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 304.36px 336.25px;
                     "
-                    id="elk6sfzc6vtl"
+                    id="el5hyexoe5kcc"
                     class="animable"
                   ></path>
                   <path
@@ -925,7 +926,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 311.21px 336.25px;
                     "
-                    id="elszr5k7wrnpo"
+                    id="elqtdyr8mmaw"
                     class="animable"
                   ></path>
                   <path
@@ -934,7 +935,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 318.07px 336.25px;
                     "
-                    id="eljkkqgg7rlxm"
+                    id="elzymk9t2cgl"
                     class="animable"
                   ></path>
                   <path
@@ -943,7 +944,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 419.725px 290.09px;
                     "
-                    id="el14irw3jeq01"
+                    id="elgbjx31v2c6"
                     class="animable"
                   ></path>
                   <path
@@ -952,7 +953,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 422.984px 259.53px;
                     "
-                    id="elqlzwkw9j6yl"
+                    id="ell9s96wyq9ha"
                     class="animable"
                   ></path>
                   <path
@@ -961,7 +962,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 425.894px 258.513px;
                     "
-                    id="elh7bi8lxjvh"
+                    id="elwlzwo32fjch"
                     class="animable"
                   ></path>
                   <path
@@ -970,7 +971,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 426.078px 256.856px;
                     "
-                    id="el0ef8my5a7tru"
+                    id="elhok2vuqzzih"
                     class="animable"
                   ></path>
                   <path
@@ -979,7 +980,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 426.862px 255.931px;
                     "
-                    id="eli6dobjrmyq"
+                    id="elqppw7bk9cn"
                     class="animable"
                   ></path>
                   <path
@@ -988,7 +989,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 426.078px 256.856px;
                     "
-                    id="el1g1akiux4ys"
+                    id="elf7uoy2jal4b"
                     class="animable"
                   ></path>
                   <path
@@ -997,7 +998,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 426.862px 255.931px;
                     "
-                    id="el7tgykxvi6ts"
+                    id="elf6nkt19aiq7"
                     class="animable"
                   ></path>
                   <path
@@ -1006,7 +1007,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 425.935px 261.437px;
                     "
-                    id="elb66m689ih6m"
+                    id="el7mr595u3rb4"
                     class="animable"
                   ></path>
                   <path
@@ -1015,7 +1016,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 429.377px 260.479px;
                     "
-                    id="elo16gtl06fth"
+                    id="elceipp0s31"
                     class="animable"
                   ></path>
                   <path
@@ -1024,7 +1025,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 421.783px 259.39px;
                     "
-                    id="el73zpyj1ewph"
+                    id="elg8vxrpf4uxi"
                     class="animable"
                   ></path>
                   <path
@@ -1033,7 +1034,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 429.254px 260.033px;
                     "
-                    id="elsr1bt3r4xl9"
+                    id="elyxytkl7j4l"
                     class="animable"
                   ></path>
                   <path
@@ -1042,7 +1043,7 @@
                       fill: rgb(224, 224, 224);
                       transform-origin: 425.02px 262.832px;
                     "
-                    id="elai1vr0sjviw"
+                    id="el0lupnllwmwk"
                     class="animable"
                   ></path>
                   <polygon
@@ -1051,7 +1052,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 421.775px 282.17px;
                     "
-                    id="elddne0ep1r1a"
+                    id="eltkaaqe6e4to"
                     class="animable"
                   ></polygon>
                   <path
@@ -1060,7 +1061,7 @@
                       fill: rgb(230, 230, 230);
                       transform-origin: 419.795px 269.585px;
                     "
-                    id="el8d9hsv1fl0n"
+                    id="el1aq9hajj7qc"
                     class="animable"
                   ></path>
                   <path
@@ -1069,7 +1070,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 423.39px 267.883px;
                     "
-                    id="el72bdepbuoto"
+                    id="elbm26srabx7i"
                     class="animable"
                   ></path>
                   <path
@@ -1078,7 +1079,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 416.505px 268.091px;
                     "
-                    id="eleazngknelpw"
+                    id="el5xze2o3gkxa"
                     class="animable"
                   ></path>
                   <path
@@ -1087,7 +1088,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 417.866px 265.101px;
                     "
-                    id="el1ndu9xqrznj"
+                    id="el9fua7a9v7jm"
                     class="animable"
                   ></path>
                   <path
@@ -1096,7 +1097,7 @@
                       fill: rgb(250, 250, 250);
                       transform-origin: 415.67px 288.229px;
                     "
-                    id="eldsu1na5j7ng"
+                    id="elel37ckgiqf"
                     class="animable"
                   ></path>
                   <path
@@ -1105,7 +1106,7 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 213.105px 286.849px;
                     "
-                    id="elr22rd9b82k"
+                    id="elbc5pphd23tj"
                     class="animable"
                   ></path>
                   <path
@@ -1114,7 +1115,7 @@
                       fill: rgb(240, 240, 240);
                       transform-origin: 199.895px 275.404px;
                     "
-                    id="elafnvargobv7"
+                    id="el40vdspc01a"
                     class="animable"
                   ></path>
                   <path
@@ -1123,17 +1124,17 @@
                       fill: rgb(235, 235, 235);
                       transform-origin: 205.865px 361.225px;
                     "
-                    id="el8nvwu4k4qes"
+                    id="el0forlcymhpwk"
                     class="animable"
                   ></path>
                 </g>
                 <g
-                  id="freepik--Shadow--inject-68"
+                  id="freepik--Shadow--inject-17"
                   class="animable"
                   style="transform-origin: 250px 415.69px"
                 >
                   <ellipse
-                    id="freepik--path--inject-68"
+                    id="freepik--path--inject-17"
                     cx="250"
                     cy="415.69"
                     rx="193.89"
@@ -1146,59 +1147,48 @@
                   ></ellipse>
                 </g>
                 <g
-                  id="freepik--Lines--inject-68"
+                  id="freepik--Lines--inject-17"
                   class="animable"
                   style="transform-origin: 242.85px 251.335px"
                 >
                   <polygon
                     points="234.07 257 236.57 242.58 241.48 244 234.07 257"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 237.775px 249.79px;
-                    "
-                    id="eljqded912vsl"
+                    style="fill: #60a5fa; transform-origin: 237.775px 249.79px"
+                    id="eljon05jadfwm"
                     class="animable"
                   ></polygon>
                   <polygon
                     points="235.72 261.62 249.78 257.55 247.82 252.82 235.72 261.62"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 242.75px 257.22px;
-                    "
-                    id="el8y168h1tglv"
+                    style="fill: #60a5fa; transform-origin: 242.75px 257.22px"
+                    id="elz8tydkrztfh"
                     class="animable"
                   ></polygon>
                   <polygon
                     points="238.22 256.19 246.23 241.05 251.63 244.8 238.22 256.19"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 244.925px 248.62px;
-                    "
-                    id="el3cihe3ozloy"
+                    style="fill: #60a5fa; transform-origin: 244.925px 248.62px"
+                    id="eld2mqyzd8bmo"
                     class="animable"
                   ></polygon>
                 </g>
                 <g
-                  id="freepik--Files--inject-68"
-                  class="animable animator-active"
+                  id="freepik--Files--inject-17"
+                  class="animable"
                   style="transform-origin: 333.544px 165.856px"
                 >
                   <path
                     d="M328.71,115.68H314.14a2.4,2.4,0,0,1,0-4.79h14.57a2.4,2.4,0,0,1,0,4.79Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 321.425px 113.285px;
-                    "
-                    id="el4aowuf6pavx"
+                    style="fill: #60a5fa; transform-origin: 321.425px 113.285px"
+                    id="elu6ybx39k14"
                     class="animable"
                   ></path>
-                  <g id="eltxshesw2i1">
+                  <g id="elr50xlrzoc2">
                     <g
                       style="
                         opacity: 0.7;
                         transform-origin: 321.425px 113.285px;
                       "
                       class="animable"
+                      id="elhdi2842eyem"
                     >
                       <path
                         d="M328.71,115.68H314.14a2.4,2.4,0,0,1,0-4.79h14.57a2.4,2.4,0,0,1,0,4.79Z"
@@ -1206,27 +1196,25 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 321.425px 113.285px;
                         "
-                        id="elgx3b9l6znk"
+                        id="elvbbg6twwsua"
                         class="animable"
                       ></path>
                     </g>
                   </g>
                   <path
                     d="M382.16,164.79,326.3,267.59a2.73,2.73,0,0,1-3.7,1.09L227.55,217a2.73,2.73,0,0,1-1.09-3.7L299.11,79.62a2.73,2.73,0,0,1,3.7-1.09l64,34.8Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 304.144px 173.605px;
-                    "
-                    id="elt70ze6jc41i"
+                    style="fill: #60a5fa; transform-origin: 304.144px 173.605px"
+                    id="el6m9hijgvvo"
                     class="animable"
                   ></path>
-                  <g id="elycn6w2d9co">
+                  <g id="elv8dblxf8aa9">
                     <g
                       style="
                         opacity: 0.2;
                         transform-origin: 304.144px 173.605px;
                       "
                       class="animable"
+                      id="el3w5ky25y8i2"
                     >
                       <path
                         d="M382.16,164.79,326.3,267.59a2.73,2.73,0,0,1-3.7,1.09L227.55,217a2.73,2.73,0,0,1-1.09-3.7L299.11,79.62a2.73,2.73,0,0,1,3.7-1.09l64,34.8Z"
@@ -1234,63 +1222,63 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 304.144px 173.605px;
                         "
-                        id="eljvn30kbsjw"
+                        id="elzolzh9blbhf"
                         class="animable"
                       ></path>
                     </g>
                   </g>
-                  <g id="elsz94p2lakam">
+                  <g id="eloy9yr1qu9zc">
                     <rect
                       x="273.81"
                       y="168.41"
                       width="80.66"
                       height="5"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 314.14px 170.91px;
                         transform: rotate(28.35deg);
                       "
                       class="animable"
+                      id="elju4kg0ire"
                     ></rect>
                   </g>
-                  <g id="elbheehrfrp4v">
+                  <g id="eld5z0tzljbld">
                     <rect
                       x="264.11"
                       y="186.39"
                       width="80.66"
                       height="5"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 304.44px 188.89px;
                         transform: rotate(28.35deg);
                       "
                       class="animable"
+                      id="eljfscirvvdmo"
                     ></rect>
                   </g>
-                  <g id="el8j11iqehd3b">
+                  <g id="elz6pce7xnrij">
                     <rect
                       x="254.41"
                       y="204.37"
                       width="80.66"
                       height="5"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 294.74px 206.87px;
                         transform: rotate(28.35deg);
                       "
                       class="animable"
+                      id="elwdabwpy72l"
                     ></rect>
                   </g>
                   <path
                     d="M366.94,113.28l-16.84,31a2.73,2.73,0,0,0,1.09,3.7l30.91,16.8Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 365.934px 139.03px;
-                    "
-                    id="el4gfv0d8b4lu"
+                    style="fill: #60a5fa; transform-origin: 365.934px 139.03px"
+                    id="elbyyi4t8cdgr"
                     class="animable"
                   ></path>
-                  <g id="elrq78h88ujwa">
+                  <g id="ele5630xf8wln">
                     <path
                       d="M366.94,113.28l-16.84,31a2.73,2.73,0,0,0,1.09,3.7l30.91,16.8Z"
                       style="
@@ -1299,24 +1287,23 @@
                         transform-origin: 365.934px 139.03px;
                       "
                       class="animable"
+                      id="elobrdoaih6eb"
                     ></path>
                   </g>
                   <path
                     d="M396.72,161.33l-55.85,102.8a2.73,2.73,0,0,1-3.7,1.09l-95.05-51.64a2.73,2.73,0,0,1-1.1-3.7L313.67,76.17a2.73,2.73,0,0,1,3.7-1.1l64.05,34.8Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 318.705px 170.146px;
-                    "
-                    id="eljem21p3xsmo"
+                    style="fill: #60a5fa; transform-origin: 318.705px 170.146px"
+                    id="ele3fcdwfuf16"
                     class="animable"
                   ></path>
-                  <g id="elhjc42w1dgeq">
+                  <g id="eltjwf3j69zcr">
                     <g
                       style="
                         opacity: 0.5;
                         transform-origin: 318.705px 170.146px;
                       "
                       class="animable"
+                      id="elysr1xi1j74r"
                     >
                       <path
                         d="M396.72,161.33l-55.85,102.8a2.73,2.73,0,0,1-3.7,1.09l-95.05-51.64a2.73,2.73,0,0,1-1.1-3.7L313.67,76.17a2.73,2.73,0,0,1,3.7-1.1l64.05,34.8Z"
@@ -1324,21 +1311,18 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 318.705px 170.146px;
                         "
-                        id="elbzpsrzo87e9"
+                        id="el4oom360kaiu"
                         class="animable"
                       ></path>
                     </g>
                   </g>
                   <path
                     d="M363.49,183.38l-67.2-36.25a2.14,2.14,0,0,0-2.91.87l-.33.61a2.15,2.15,0,0,0,.87,2.92l67.2,36.25a2.15,2.15,0,0,0,2.91-.87l.33-.62A2.14,2.14,0,0,0,363.49,183.38Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 328.705px 167.453px;
-                    "
-                    id="elfwbsuv4v5ub"
+                    style="fill: #60a5fa; transform-origin: 328.705px 167.453px"
+                    id="el65gjolf20ag"
                     class="animable"
                   ></path>
-                  <g id="elchqpp4pn3f">
+                  <g id="eli8v52ethea">
                     <rect
                       x="278.68"
                       y="182.93"
@@ -1346,14 +1330,15 @@
                       height="5"
                       rx="2.15"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 319.01px 185.43px;
                         transform: rotate(28.35deg);
                       "
                       class="animable"
+                      id="ellu4e1pdvnkd"
                     ></rect>
                   </g>
-                  <g id="el3elxnrzdy54">
+                  <g id="elrkoi460hd8">
                     <rect
                       x="268.98"
                       y="200.92"
@@ -1361,23 +1346,21 @@
                       height="5"
                       rx="2.15"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 309.31px 203.42px;
                         transform: rotate(28.35deg);
                       "
                       class="animable"
+                      id="elow5tbfjvtci"
                     ></rect>
                   </g>
                   <path
                     d="M381.51,109.83l-16.85,31a2.71,2.71,0,0,0,1.1,3.69l30.91,16.8Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 380.499px 135.575px;
-                    "
-                    id="el7lvk0xtewk9"
+                    style="fill: #60a5fa; transform-origin: 380.499px 135.575px"
+                    id="el9j04ze8rgo"
                     class="animable"
                   ></path>
-                  <g id="el4w5ghupa7cs">
+                  <g id="elq0bf39n71z8">
                     <path
                       d="M381.51,109.83l-16.85,31a2.71,2.71,0,0,0,1.1,3.69l30.91,16.8Z"
                       style="
@@ -1386,25 +1369,23 @@
                         transform-origin: 380.499px 135.575px;
                       "
                       class="animable"
+                      id="elhdqvxox81eb"
                     ></path>
                   </g>
                   <path
                     d="M377.65,62.7l4.7,20.87c-17.8,4.88-33.77,22.5-45.26,39.14A96.21,96.21,0,0,0,325.84,145s35.9-32.47,55.69-34.37l-.95,34.49s20.53-40,60.38-54.6C441,90.51,407.58,66.47,377.65,62.7Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 383.4px 103.91px;
-                    "
-                    id="elrmfzrqkbpa9"
+                    style="fill: #60a5fa; transform-origin: 383.4px 103.91px"
+                    id="el00g51utqpbkpe"
                     class="animable"
                   ></path>
                 </g>
                 <g
-                  id="freepik--Character--inject-68"
+                  id="freepik--Character--inject-17"
                   class="animable"
                   style="transform-origin: 167.321px 313.592px"
                 >
                   <g
-                    id="freepik--group--inject-68"
+                    id="freepik--group--inject-17"
                     class="animable"
                     style="transform-origin: 201.016px 290.47px"
                   >
@@ -1414,25 +1395,25 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 247.015px 345.445px;
                       "
-                      id="elwt1gru2qrj9"
+                      id="el4hs8ey2py6c"
                       class="animable"
                     ></polygon>
                     <path
                       d="M265.62,348.74a3.82,3.82,0,0,0-2.47.12c-.48.14-1,.31-1.42.47s-.67.26-.94.37l-.79.35a.21.21,0,0,0-.16.21.13.13,0,0,0,0,.1.24.24,0,0,0,.14.1,18,18,0,0,0,3.09.53,3.75,3.75,0,0,0,1.53-.12h.07a4.3,4.3,0,0,0,.82-.37,1.27,1.27,0,0,0,.47-1.11A.77.77,0,0,0,265.62,348.74Zm-.1.66a.76.76,0,0,1-.31.75,1.78,1.78,0,0,1-.81.32,5.07,5.07,0,0,1-1.22.07,13.68,13.68,0,0,1-1.9-.24l-.47-.09a12.81,12.81,0,0,1,2.67-.93A11.71,11.71,0,0,1,265,349a.77.77,0,0,1,.42.1A.28.28,0,0,1,265.52,349.4Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 262.898px 349.805px;
                       "
-                      id="elifg2wxr5qg9"
+                      id="el9vw5w0xcyjn"
                       class="animable"
                     ></path>
                     <path
                       d="M262.35,345a1.72,1.72,0,0,0-1.13.74,2.32,2.32,0,0,0-.21.38,7.15,7.15,0,0,0-.22,3.6.11.11,0,0,1,0,.05.23.23,0,0,0,.15.17.17.17,0,0,0,.14,0,.11.11,0,0,0,.09-.05,4.73,4.73,0,0,0,.55-.55,8.77,8.77,0,0,0,.85-1.2c.62-1,1.06-2.15.79-2.74C263.26,345.14,263,344.88,262.35,345Zm.6.6c.17.38-.17,1.28-.67,2.16a8.51,8.51,0,0,1-1.08,1.5,6.78,6.78,0,0,1,.14-2.72,1.93,1.93,0,0,1,.26-.54,1.3,1.3,0,0,1,.69-.51l.14,0C262.85,345.37,262.93,345.53,263,345.58Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 262.049px 347.462px;
                       "
-                      id="elopsx7dy23pf"
+                      id="elxavw6qtci3f"
                       class="animable"
                     ></path>
                     <path
@@ -1441,10 +1422,10 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 263.985px 357.724px;
                       "
-                      id="el1l79fzrkb0j"
+                      id="elygckj0oglmf"
                       class="animable"
                     ></path>
-                    <g id="elxngka946m8g">
+                    <g id="el1rpljm6nppx">
                       <polygon
                         points="241.87 333.97 250.97 342.04 243.29 348.58 234.19 340.51 241.87 333.97"
                         style="
@@ -1453,18 +1434,16 @@
                           transform-origin: 242.58px 341.275px;
                         "
                         class="animable"
+                        id="elsno0tgon4zq"
                       ></polygon>
                     </g>
                     <polygon
                       points="239.03 348.52 250.48 337.96 247.96 333.54 234.72 344.91 239.03 348.52"
-                      style="
-                        fill: rgb(64, 123, 255);
-                        transform-origin: 242.6px 341.03px;
-                      "
-                      id="elymm281t7q"
+                      style="fill: #60a5fa; transform-origin: 242.6px 341.03px"
+                      id="el3r3v2fnqc17"
                       class="animable"
                     ></polygon>
-                    <g id="eli1x6xg1tt2">
+                    <g id="elcl7jxjpnsxa">
                       <polygon
                         points="239.03 348.52 250.48 337.96 247.96 333.54 234.72 344.91 239.03 348.52"
                         style="
@@ -1473,28 +1452,30 @@
                           transform-origin: 242.6px 341.03px;
                         "
                         class="animable"
+                        id="el9ti1wxrpq0h"
                       ></polygon>
                     </g>
                     <path
                       d="M246.16,335.09l-1.54,1.32-2.29,2L241,339.54,237,343l-.77.65s-16.31-9.19-25.39-17c-6.21-5.37-6.77-7.38-7.43-6.88-8.77,6.68-34.73,29.74-49.44,41.73-.48.06-1,.1-1.44.14-7.86.57-14-.29-18.84-2.12,0-6.38,5.41-21.28,5.86-22.72,0,0,21.71-21.57,56.89-39.81a11,11,0,0,1,1.06-.47,14.77,14.77,0,0,1,1.38-.56,17.73,17.73,0,0,1,5.39-1.22,11.84,11.84,0,0,1,4.57.72,17.6,17.6,0,0,1,2.44,1.08,20.75,20.75,0,0,1,2,1.18c1.09.69,2.14,1.46,3.13,2.22,2.25,1.74,19.24,23.63,28.37,33.73h0C245.27,334.14,245.73,334.64,246.16,335.09Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 189.925px 328.272px;
                       "
-                      id="elq4gmnu2wug"
+                      id="eljukjgvyf1o"
                       class="animable"
                     ></path>
-                    <g id="elirtwff2a1jm">
+                    <g id="ellkz2l3kzk9i">
                       <g
                         style="
                           opacity: 0.1;
                           transform-origin: 189.925px 328.272px;
                         "
                         class="animable"
+                        id="elxzn3j4qz92l"
                       >
                         <path
                           d="M246.16,335.09l-1.54,1.32-2.29,2L241,339.54,237,343l-.77.65s-16.31-9.19-25.39-17c-6.21-5.37-6.77-7.38-7.43-6.88-8.77,6.68-34.73,29.74-49.44,41.73-.48.06-1,.1-1.44.14-7.86.57-14-.29-18.84-2.12,0-6.38,5.41-21.28,5.86-22.72,0,0,21.71-21.57,56.89-39.81a11,11,0,0,1,1.06-.47,14.77,14.77,0,0,1,1.38-.56,17.73,17.73,0,0,1,5.39-1.22,11.84,11.84,0,0,1,4.57.72,17.6,17.6,0,0,1,2.44,1.08,20.75,20.75,0,0,1,2,1.18c1.09.69,2.14,1.46,3.13,2.22,2.25,1.74,19.24,23.63,28.37,33.73h0C245.27,334.14,245.73,334.64,246.16,335.09Z"
-                          id="el6a4kcjp5m0l"
+                          id="ela4xnphfjnr"
                           class="animable"
                           style="transform-origin: 189.925px 328.272px"
                         ></path>
@@ -1506,16 +1487,16 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 140.498px 265.745px;
                       "
-                      id="ell0bcdhkx1k"
+                      id="elpj2qbga4qze"
                       class="animable"
                     ></path>
                     <path
                       d="M124.51,263.35a7.9,7.9,0,0,1,3-4.16c1.41-1.07,16-1.23,19.75,0a9.54,9.54,0,0,1,5.29,4.17Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 138.53px 260.843px;
                       "
-                      id="elfv547mi1xa8"
+                      id="elvjik8ldn3jp"
                       class="animable"
                     ></path>
                     <path
@@ -1524,7 +1505,7 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 192.174px 290.636px;
                       "
-                      id="elwjutjcokj9l"
+                      id="elaxg6j9uruaq"
                       class="animable"
                     ></path>
                     <path
@@ -1533,7 +1514,7 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 197.835px 289.5px;
                       "
-                      id="el4u2gkz545nn"
+                      id="elkaeswsof1uj"
                       class="animable"
                     ></path>
                     <path
@@ -1542,10 +1523,10 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 156.404px 296.114px;
                       "
-                      id="el6lof06xk4sr"
+                      id="elxkzfg2n5q1"
                       class="animable"
                     ></path>
-                    <g id="el6g7n226lnzh">
+                    <g id="el0a5ty8zhbedf">
                       <g
                         style="
                           opacity: 0.2;
@@ -1553,16 +1534,17 @@
                           transform-origin: 160.789px 296.058px;
                         "
                         class="animable"
+                        id="el60r9yqgt3u8"
                       >
                         <path
                           d="M200.06,290.42a1.57,1.57,0,0,1-1.23,1.42l-3.2.73h0a11.58,11.58,0,0,1-3.69,2.17,2,2,0,0,1-.59.1h0c-6.08,4.62-20,12.66-28.06,14a32.41,32.41,0,0,1-19.4-3.25c-4.63-2.28-17.06-9-20.43-12.38-2.88-2.93-3.46-10,3.25-10.26,4.13-.18,15.83,8.55,18.82,10.67,15.26,10.85,38.48-.09,43.23-1.69a1.7,1.7,0,0,1,0-.22,5.39,5.39,0,0,1,1-2.12,5.31,5.31,0,0,1,1.85-1.46l3.73-1.71h0l3.25.05a1.55,1.55,0,0,1,1.57,1.55v.14Z"
-                          id="eljuchhptw5o"
+                          id="elthsziocx4do"
                           class="animable"
                           style="transform-origin: 160.789px 296.058px"
                         ></path>
                         <polygon
                           points="195.44 286.43 195.41 286.44 195.41 286.43 195.44 286.43"
-                          id="elazhlhf0olvc"
+                          id="elxrxi6rxwusi"
                           class="animable"
                           style="transform-origin: 195.425px 286.435px"
                         ></polygon>
@@ -1571,13 +1553,13 @@
                     <path
                       d="M164.84,273.4c8.49,18.71-11.2,24.06-2.18,54.74l-42.8,1c.28-16.44,6.13-12.91-1.58-43.82-.65-2.62-1.73-10.13,1.06-17a12.45,12.45,0,0,1,5.55-6.29c3.16-1.7,17.08-.37,23.43.06C155.2,261.16,163.58,271.06,164.84,273.4Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 142.269px 295.164px;
                       "
-                      id="el2doaecosjed"
+                      id="eljhfu1qi5io"
                       class="animable"
                     ></path>
-                    <g id="el0c08mf8hzo95">
+                    <g id="el0w9wvidazn7m">
                       <path
                         d="M164.84,273.4c8.49,18.71-11.2,24.06-2.18,54.74l-42.8,1c.28-16.44,6.13-12.91-1.58-43.82-.65-2.62-1.73-10.13,1.06-17a12.45,12.45,0,0,1,5.55-6.29c3.16-1.7,17.08-.37,23.43.06C155.2,261.16,163.58,271.06,164.84,273.4Z"
                         style="
@@ -1586,6 +1568,7 @@
                           transform-origin: 142.269px 295.164px;
                         "
                         class="animable"
+                        id="el31mpm19x8pv"
                       ></path>
                     </g>
                     <path
@@ -1594,7 +1577,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 157.6px 236.414px;
                       "
-                      id="el1b7xg0o2rdf"
+                      id="ela9u2jx5uc8"
                       class="animable"
                     ></path>
                     <path
@@ -1603,7 +1586,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 158.57px 235.072px;
                       "
-                      id="elhipr87nca2j"
+                      id="el5hv4i7ngfv6"
                       class="animable"
                     ></path>
                     <path
@@ -1612,7 +1595,7 @@
                         fill: rgb(160, 39, 36);
                         transform-origin: 157.43px 240.256px;
                       "
-                      id="elgzkmkamwi6j"
+                      id="el8pxxymhe8hg"
                       class="animable"
                     ></path>
                     <path
@@ -1621,7 +1604,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 157.461px 230.91px;
                       "
-                      id="el19ub0o9xyk7"
+                      id="elg1m5lm9onuq"
                       class="animable"
                     ></path>
                     <path
@@ -1630,7 +1613,7 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 144.09px 236.269px;
                       "
-                      id="el2hqe8oa0uu6"
+                      id="el6y6el8vdjj"
                       class="animable"
                     ></path>
                     <path
@@ -1639,7 +1622,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 155.153px 245.507px;
                       "
-                      id="elgeebvwe8om"
+                      id="elewo7i297wj"
                       class="animable"
                     ></path>
                     <path
@@ -1648,7 +1631,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 137.788px 231.675px;
                       "
-                      id="elrrfq8as7gte"
+                      id="elsuntk41z74b"
                       class="animable"
                     ></path>
                     <path
@@ -1657,7 +1640,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 153.065px 237.415px;
                       "
-                      id="elhdl9lo17hig"
+                      id="el01qwonvy0g1g"
                       class="animable"
                     ></path>
                     <path
@@ -1666,7 +1649,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 151.938px 237.775px;
                       "
-                      id="elv5r3z4vqm4"
+                      id="els5l9zymda9f"
                       class="animable"
                     ></path>
                     <path
@@ -1675,7 +1658,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 134.545px 250.97px;
                       "
-                      id="elohhuihs3mim"
+                      id="el7ogahx1j584"
                       class="animable"
                     ></path>
                     <path
@@ -1684,7 +1667,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 135.323px 251.345px;
                       "
-                      id="el8tb1h5im3hd"
+                      id="elyjj3b8nped"
                       class="animable"
                     ></path>
                     <path
@@ -1693,7 +1676,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 154.48px 226.568px;
                       "
-                      id="el1yuh2xaqyep"
+                      id="el51e0x1shjxu"
                       class="animable"
                     ></path>
                     <path
@@ -1702,7 +1685,7 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 147.338px 238.071px;
                       "
-                      id="elmxe87sh4k6g"
+                      id="elf8upf3gnba"
                       class="animable"
                     ></path>
                     <polygon
@@ -1711,28 +1694,25 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 252.4px 348.265px;
                       "
-                      id="eleeoe4el07cm"
+                      id="elp1zpv5xw65"
                       class="animable"
                     ></polygon>
                     <path
                       d="M272.42,351.58c-.85-.3-2.61.66-3.95,1.51-.34.21-.64.42-.9.6h0l-.13.1c-.3.21-.52.37-.6.44a.22.22,0,0,0-.12.25.25.25,0,0,0,.23.18,18.23,18.23,0,0,0,2.76-.09l.61-.07a3.84,3.84,0,0,0,1.85-.64,3.33,3.33,0,0,0,.56-.43,1.35,1.35,0,0,0,.25-1.27A.88.88,0,0,0,272.42,351.58Zm.06.72a.88.88,0,0,1-.17.86,2.83,2.83,0,0,1-1.52.76,11,11,0,0,1-2.06.27q-.48,0-1,0l.34-.25a1.77,1.77,0,0,1,.24-.17,13,13,0,0,1,3.51-1.75.84.84,0,0,1,.47,0A.32.32,0,0,1,272.48,352.3Z"
-                      style="
-                        fill: rgb(64, 123, 255);
-                        transform-origin: 269.878px 353.1px;
-                      "
-                      id="el4zmz5tzdbpp"
+                      style="fill: #60a5fa; transform-origin: 269.878px 353.1px"
+                      id="eldia7k9yuey"
                       class="animable"
                     ></path>
                     <path
                       d="M268.14,348.39a1.74,1.74,0,0,0-1,1c-.64,1.53.3,3.91.45,4.28h0a0,0,0,0,0,0,0,.25.25,0,0,0,.2.15.38.38,0,0,0,.15,0,.14.14,0,0,0,.08-.07l0,0a5.05,5.05,0,0,0,.42-.68c.74-1.39,1.43-3.71.83-4.51C269.12,348.34,268.79,348.12,268.14,348.39Zm-.25,4.72a5.79,5.79,0,0,1-.32-3.51,1.34,1.34,0,0,1,.62-.69l.13-.06c.43-.17.54,0,.58,0C269.34,349.46,268.67,351.83,267.89,353.11Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 268.209px 351.046px;
                       "
-                      id="el6wkefe9vext"
+                      id="elxxl6uwjksqm"
                       class="animable"
                     ></path>
-                    <g id="el590oqk20xfr">
+                    <g id="elx8cuna3kluc">
                       <polygon
                         points="248.81 333.96 255.84 342.96 246.33 348.27 239.19 339.5 248.81 333.96"
                         style="
@@ -1741,6 +1721,7 @@
                           transform-origin: 247.515px 341.115px;
                         "
                         class="animable"
+                        id="elaoag0oioa4c"
                       ></polygon>
                     </g>
                     <path
@@ -1749,62 +1730,62 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 141.203px 327.36px;
                       "
-                      id="elp0k9ia35md"
+                      id="ela1i3otrzdv4"
                       class="animable"
                     ></path>
                     <path
                       d="M158.69,329.78l-1.16.13c-.23,0-.42-.07-.42-.22l0-5c0-.15.19-.29.41-.31l1.16-.14c.23,0,.42.08.42.23l0,5C159.1,329.62,158.92,329.76,158.69,329.78Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 158.105px 327.075px;
                       "
-                      id="elpaljofc971"
+                      id="elrqv45keoqdi"
                       class="animable"
                     ></path>
                     <path
                       d="M142.91,330l-1.16.12c-.22,0-.41-.07-.41-.22l0-5c0-.14.19-.28.42-.31l1.15-.13c.23,0,.42.07.42.22l0,5C143.33,329.84,143.14,330,142.91,330Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 142.335px 327.29px;
                       "
-                      id="ele5zwra8vl0d"
+                      id="el7kdmhj6fz7m"
                       class="animable"
                     ></path>
                     <path
                       d="M142.91,330l-1.16.12c-.22,0-.41-.07-.41-.22l0-5c0-.14.19-.28.42-.31l1.15-.13c.23,0,.42.07.42.22l0,5C143.33,329.84,143.14,330,142.91,330Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 142.335px 327.29px;
                       "
-                      id="elsrrt8n2gd6"
+                      id="eltu47w9job8l"
                       class="animable"
                     ></path>
                     <path
                       d="M254.72,338l-1.95,1.1h0L249.41,341l-3,1.69h0l-3.09,1.74h0l-1.19.67-.74-.55c-.18-.12-.39-.27-.63-.46-.74-.55-1.76-1.31-3-2.26h0c-6.21-4.92-17.28-14.58-20.58-23.37-2.13,2.54-4.68,5.73-7.6,9.25C197,342.88,177.48,364.29,154,367.08l-1.44.15c-7.85.67-14-.11-18.85-1.88-12.19-4.47-15.59-15.18-14.76-24.29v0c.08-4.27.91-11.87.91-11.87l44.48,0c6.26-7.61,18.84-19.53,31.69-27,.3-.19.61-.37.92-.53s.77-.44,1.15-.65a51.81,51.81,0,0,1,12.33-5c.88-.21,1.75-.39,2.61-.52a24.37,24.37,0,0,1,2.66-.25h0c6.09-.27,11.38,2,15,8.07L254.05,337Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.776px 331.343px;
                       "
-                      id="elvddy5fi0o7"
+                      id="elfhlxl2x2lls"
                       class="animable"
                     ></path>
                     <g
-                      id="freepik--monitor-screen--inject-68"
+                      id="freepik--monitor-screen--inject-17"
                       class="animable"
                       style="transform-origin: 206.765px 277.21px"
                     >
                       <g
-                        id="freepik--PC--inject-68"
+                        id="freepik--PC--inject-17"
                         class="animable"
                         style="transform-origin: 206.765px 277.21px"
                       >
                         <polygon
                           points="230.72 291.78 181.58 293.81 183.02 262.54 232.16 260.51 230.72 291.78"
                           style="
-                            fill: rgb(64, 123, 255);
+                            fill: #60a5fa;
                             transform-origin: 206.87px 277.16px;
                           "
-                          id="el7p0t5saw9i"
+                          id="elf4fpky2gc0c"
                           class="animable"
                         ></polygon>
                         <path
@@ -1813,19 +1794,19 @@
                             fill: rgb(38, 50, 56);
                             transform-origin: 206.765px 277.21px;
                           "
-                          id="el0tx8xrg6cpca"
+                          id="elik4b44cspjk"
                           class="animable"
                         ></path>
                         <polygon
                           points="230.72 291.78 181.58 293.81 183.02 262.54 232.16 260.51 230.72 291.78"
                           style="
-                            fill: rgb(64, 123, 255);
+                            fill: #60a5fa;
                             transform-origin: 206.87px 277.16px;
                           "
-                          id="elv4juwv0w9xa"
+                          id="elmyieldgo40a"
                           class="animable"
                         ></polygon>
-                        <g id="eladiyb3149f5">
+                        <g id="eljmwgtyjuy5f">
                           <polygon
                             points="230.72 291.78 181.58 293.81 183.02 262.54 232.16 260.51 230.72 291.78"
                             style="
@@ -1834,9 +1815,10 @@
                               transform-origin: 206.87px 277.16px;
                             "
                             class="animable"
+                            id="elnania2hgl69"
                           ></polygon>
                         </g>
-                        <g id="elcj6tvl2rcgw">
+                        <g id="eladb4jw2vcws">
                           <polygon
                             points="200.46 259.49 192.34 295.79 195.57 295.66 203.58 259.36 200.46 259.49"
                             style="
@@ -1846,9 +1828,10 @@
                               transform-origin: 197.96px 277.575px;
                             "
                             class="animable"
+                            id="eljk2vupll3x"
                           ></polygon>
                         </g>
-                        <g id="elnp4gs2g2jz">
+                        <g id="el3u5tivx0kj9">
                           <polygon
                             points="205.44 259.28 197.32 295.58 203.73 295.32 211.74 259.02 205.44 259.28"
                             style="
@@ -1858,6 +1841,7 @@
                               transform-origin: 204.53px 277.3px;
                             "
                             class="animable"
+                            id="elbfylob3cmo6"
                           ></polygon>
                         </g>
                       </g>
@@ -1865,22 +1849,22 @@
                     <path
                       d="M214.77,294.63l16.36-.46c.28,1.9-.53,2.61-1.57,2.64l-5.23.13-3.5.08-5.43.15-33.69,1-.27-2.37Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 206.313px 296.17px;
                       "
-                      id="el3217f0vbgts"
+                      id="eldk9hdsrh6f"
                       class="animable"
                     ></path>
                     <path
                       d="M214.77,294.63l16.36-.46c.28,1.9-.53,2.61-1.57,2.64l-5.23.13-3.5.08-5.43.15-41.7,1.28a1.2,1.2,0,0,1-1.13-.68h0a1.21,1.21,0,0,1,1.05-1.73Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 201.819px 296.311px;
                       "
-                      id="el7j18a9j8os6"
+                      id="elw4nkdvp6enb"
                       class="animable"
                     ></path>
-                    <g id="elzhh8wdxer1j">
+                    <g id="elc9oy002txjg">
                       <path
                         d="M214.77,294.63l16.36-.46c.28,1.9-.53,2.61-1.57,2.64l-5.23.13-3.5.08-5.43.15-41.7,1.28a1.2,1.2,0,0,1-1.13-.68h0a1.21,1.21,0,0,1,1.05-1.73Z"
                         style="
@@ -1888,9 +1872,10 @@
                           transform-origin: 201.819px 296.311px;
                         "
                         class="animable"
+                        id="elcxjasdxqc1f"
                       ></path>
                     </g>
-                    <g id="el2f71845whau">
+                    <g id="elid3rzt80o6">
                       <path
                         d="M231.13,294.17l.1.66a1.73,1.73,0,0,1-1.67,2l-5.23.13-9.72.35.16-2.66Z"
                         style="
@@ -1898,9 +1883,10 @@
                           transform-origin: 222.931px 295.74px;
                         "
                         class="animable"
+                        id="elvzy50mx9h3m"
                       ></path>
                     </g>
-                    <g id="el85ggiqynvsb">
+                    <g id="elucvupahd8u">
                       <path
                         d="M146.39,274.32s-2.31,4.71,4.36,17.15l2.79,5.07h0c.92,1.67,7-1.74,8.86-4.87h0S150.7,284.65,146.39,274.32Z"
                         style="
@@ -1908,6 +1894,7 @@
                           transform-origin: 154.202px 285.65px;
                         "
                         class="animable"
+                        id="el2114akuow4t"
                       ></path>
                     </g>
                     <path
@@ -1916,7 +1903,7 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 202.91px 292.033px;
                       "
-                      id="elh9jn70saumd"
+                      id="elndc9svb7kvr"
                       class="animable"
                     ></path>
                     <path
@@ -1925,7 +1912,7 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 209.963px 291.035px;
                       "
-                      id="eln23bjmc9r1m"
+                      id="elxz1w9r9x1kc"
                       class="animable"
                     ></path>
                     <path
@@ -1934,37 +1921,34 @@
                         fill: rgb(203, 122, 99);
                         transform-origin: 177.025px 291.277px;
                       "
-                      id="elxki2ceuvz1d"
+                      id="el57ol147u2oh"
                       class="animable"
                     ></path>
                     <path
                       d="M160.78,267.29c6.57,6,9.77,16.72,9.77,16.72l-15.35,9.36S144,277.61,146,272.12c1.58-4.26,4.51-7.06,8.36-7.3A8.82,8.82,0,0,1,160.78,267.29Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 158.155px 279.093px;
                       "
-                      id="ellijebyqj0o"
+                      id="eli1uz6otgze"
                       class="animable"
                     ></path>
                     <path
                       d="M125.56,330.59l-1.16,0c-.23,0-.42-.11-.4-.26l.43-5c0-.15.21-.27.44-.28l1.16,0c.23,0,.42.12.4.26l-.43,5A.38.38,0,0,1,125.56,330.59Z"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 125.215px 327.823px;
                       "
-                      id="eljv0hr2y74t"
+                      id="elnuk56vg7cl"
                       class="animable"
                     ></path>
                     <polygon
                       points="240.23 347.23 255.19 339.75 253.91 334.43 236.85 342.21 240.23 347.23"
-                      style="
-                        fill: rgb(64, 123, 255);
-                        transform-origin: 246.02px 340.83px;
-                      "
-                      id="elolpp0ovq1m"
+                      style="fill: #60a5fa; transform-origin: 246.02px 340.83px"
+                      id="els9sppw6osu"
                       class="animable"
                     ></polygon>
-                    <g id="elyyp58vs3nvh">
+                    <g id="elp8mdq1wgalh">
                       <polygon
                         points="240.23 347.23 255.19 339.75 253.91 334.43 236.85 342.21 240.23 347.23"
                         style="
@@ -1973,6 +1957,7 @@
                           transform-origin: 246.02px 340.83px;
                         "
                         class="animable"
+                        id="el0z5ss2edn4lf"
                       ></polygon>
                     </g>
                     <path
@@ -1981,7 +1966,7 @@
                         fill: rgb(38, 50, 56);
                         transform-origin: 268.753px 360.46px;
                       "
-                      id="elfiasxdbjvw8"
+                      id="el81du95awqw"
                       class="animable"
                     ></path>
                   </g>
@@ -1991,22 +1976,20 @@
                       fill: rgb(38, 50, 56);
                       transform-origin: 125.175px 220.86px;
                     "
-                    id="elcrovaw6lxv"
+                    id="elordst0do6rh"
                     class="animable"
                   ></path>
                   <polygon
                     points="230.28 271.23 200.03 272.51 200.17 269.51 230.42 268.23 230.28 271.23"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 215.225px 270.37px;
-                    "
-                    id="elq0k53sjgtp7"
+                    style="fill: #60a5fa; transform-origin: 215.225px 270.37px"
+                    id="el4omzmvjh7lm"
                     class="animable"
                   ></polygon>
-                  <g id="elkgpp5z3acp">
+                  <g id="ellsynlywx7cn">
                     <g
                       style="opacity: 0.7; transform-origin: 215.225px 270.37px"
                       class="animable"
+                      id="elq0bvebd30g"
                     >
                       <polygon
                         points="230.28 271.23 200.03 272.51 200.17 269.51 230.42 268.23 230.28 271.23"
@@ -2014,24 +1997,22 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 215.225px 270.37px;
                         "
-                        id="elob4mwkvt8k"
+                        id="el1b6w4csctg7"
                         class="animable"
                       ></polygon>
                     </g>
                   </g>
                   <polygon
                     points="230.1 275.39 199.85 276.68 199.98 273.68 230.23 272.39 230.1 275.39"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 215.04px 274.535px;
-                    "
-                    id="elkk3kym43s"
+                    style="fill: #60a5fa; transform-origin: 215.04px 274.535px"
+                    id="elyqn2kr2txkr"
                     class="animable"
                   ></polygon>
-                  <g id="el0u1lk9hqeq1">
+                  <g id="elcxnplg8dhuf">
                     <g
                       style="opacity: 0.7; transform-origin: 215.04px 274.535px"
                       class="animable"
+                      id="elqo1p4pumpgi"
                     >
                       <polygon
                         points="230.1 275.39 199.85 276.68 199.98 273.68 230.23 272.39 230.1 275.39"
@@ -2039,24 +2020,22 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 215.04px 274.535px;
                         "
-                        id="el00q06ab8rwf4"
+                        id="el1nll8z0txg"
                         class="animable"
                       ></polygon>
                     </g>
                   </g>
                   <polygon
                     points="229.91 279.56 199.66 280.85 199.8 277.84 230.04 276.56 229.91 279.56"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 214.85px 278.705px;
-                    "
-                    id="elefad4vlyyel"
+                    style="fill: #60a5fa; transform-origin: 214.85px 278.705px"
+                    id="eloy4u05p8vbk"
                     class="animable"
                   ></polygon>
-                  <g id="eltzheuohcji9">
+                  <g id="el1047jhfutzrj">
                     <g
                       style="opacity: 0.7; transform-origin: 214.85px 278.705px"
                       class="animable"
+                      id="elpe1ots6v7fi"
                     >
                       <polygon
                         points="229.91 279.56 199.66 280.85 199.8 277.84 230.04 276.56 229.91 279.56"
@@ -2064,27 +2043,25 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 214.85px 278.705px;
                         "
-                        id="el94wt63ayf5q"
+                        id="els20kgh3xzt"
                         class="animable"
                       ></polygon>
                     </g>
                   </g>
                   <polygon
                     points="229.72 283.72 199.47 285.01 199.61 282.01 229.86 280.72 229.72 283.72"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 214.665px 282.865px;
-                    "
-                    id="el56q3h9ep82w"
+                    style="fill: #60a5fa; transform-origin: 214.665px 282.865px"
+                    id="elw0nl3gn7puo"
                     class="animable"
                   ></polygon>
-                  <g id="elxw56mvsjeqo">
+                  <g id="eluu1vslp2vz">
                     <g
                       style="
                         opacity: 0.7;
                         transform-origin: 214.665px 282.865px;
                       "
                       class="animable"
+                      id="elagorv9dwond"
                     >
                       <polygon
                         points="229.72 283.72 199.47 285.01 199.61 282.01 229.86 280.72 229.72 283.72"
@@ -2092,24 +2069,22 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 214.665px 282.865px;
                         "
-                        id="elv1f263lfww"
+                        id="elyw16j2bh0g8"
                         class="animable"
                       ></polygon>
                     </g>
                   </g>
                   <polygon
                     points="229.54 287.89 199.29 289.18 199.42 286.18 229.67 284.89 229.54 287.89"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 214.48px 287.035px;
-                    "
-                    id="elgoolwnzz95a"
+                    style="fill: #60a5fa; transform-origin: 214.48px 287.035px"
+                    id="elkojt9nif6r8"
                     class="animable"
                   ></polygon>
-                  <g id="elolpb273ohx">
+                  <g id="el3magxtiqcvj">
                     <g
                       style="opacity: 0.7; transform-origin: 214.48px 287.035px"
                       class="animable"
+                      id="elpwsnckog7gd"
                     >
                       <polygon
                         points="229.54 287.89 199.29 289.18 199.42 286.18 229.67 284.89 229.54 287.89"
@@ -2117,31 +2092,33 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 214.48px 287.035px;
                         "
-                        id="el2gppflvyi2v"
+                        id="eldo2to369sa"
                         class="animable"
                       ></polygon>
                     </g>
                   </g>
-                  <g id="elcdjmnagga6m">
+                  <g id="elv7elucwus78">
                     <rect
                       x="185.4"
                       y="274.25"
                       width="2.43"
                       height="1"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.615px 274.75px;
                         transform: rotate(-2.46deg);
                       "
                       class="animable"
+                      id="eljgr6t2wulk"
                     ></rect>
                   </g>
-                  <g id="elv212670v7em">
+                  <g id="elzg4ezu071qe">
                     <g
                       style="opacity: 0.5; transform-origin: 186.615px 274.75px"
                       class="animable"
+                      id="elpdom9g9rma"
                     >
-                      <g id="ela16wptifmv5">
+                      <g id="el8rzyj1tbtlh">
                         <rect
                           x="185.4"
                           y="274.25"
@@ -2153,30 +2130,33 @@
                             transform: rotate(-2.46deg);
                           "
                           class="animable"
+                          id="eljwh78i6rcii"
                         ></rect>
                       </g>
                     </g>
                   </g>
-                  <g id="elktf3gjpry6">
+                  <g id="eleken9pxqjzt">
                     <rect
                       x="185.29"
                       y="277.14"
                       width="2.43"
                       height="1"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.505px 277.64px;
                         transform: rotate(-2.46deg);
                       "
                       class="animable"
+                      id="el5v3b66pmuu4"
                     ></rect>
                   </g>
-                  <g id="elborfqnba8rp">
+                  <g id="eletmdg44x9jo">
                     <g
                       style="opacity: 0.5; transform-origin: 186.505px 277.64px"
                       class="animable"
+                      id="elsrnfx7jk9s"
                     >
-                      <g id="elhak2yio163o">
+                      <g id="elmzo7613cwvr">
                         <rect
                           x="185.29"
                           y="277.14"
@@ -2188,30 +2168,33 @@
                             transform: rotate(-2.46deg);
                           "
                           class="animable"
+                          id="eld0081je8wwj"
                         ></rect>
                       </g>
                     </g>
                   </g>
-                  <g id="elzc6zd74buq">
+                  <g id="elvx9yrge7idk">
                     <rect
                       x="185.17"
                       y="280.02"
                       width="2.43"
                       height="1"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.385px 280.52px;
                         transform: rotate(-2.29061deg);
                       "
                       class="animable"
+                      id="elrz31r1ykjeb"
                     ></rect>
                   </g>
-                  <g id="elgxgqo13gkig">
+                  <g id="eli0tljvgsewe">
                     <g
                       style="opacity: 0.5; transform-origin: 186.385px 280.52px"
                       class="animable"
+                      id="el9j66e5xe62a"
                     >
-                      <g id="el4rfvq73e00m">
+                      <g id="eljcefbyagmeb">
                         <rect
                           x="185.17"
                           y="280.02"
@@ -2223,30 +2206,33 @@
                             transform: rotate(-2.29061deg);
                           "
                           class="animable"
+                          id="elpbihf8ujcn"
                         ></rect>
                       </g>
                     </g>
                   </g>
-                  <g id="elbmz41c3y0gh">
+                  <g id="el1a8slhpafvf">
                     <rect
                       x="185.06"
                       y="282.91"
                       width="2.43"
                       height="1"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.275px 283.41px;
                         transform: rotate(-2.46deg);
                       "
                       class="animable"
+                      id="elbku288rjxwb"
                     ></rect>
                   </g>
-                  <g id="el62ouqgc6qc6">
+                  <g id="elg0lpmitll4">
                     <g
                       style="opacity: 0.5; transform-origin: 186.275px 283.41px"
                       class="animable"
+                      id="el5dzv4bb3y9h"
                     >
-                      <g id="elowslmkdm3r">
+                      <g id="elx18e1sq3xp">
                         <rect
                           x="185.06"
                           y="282.91"
@@ -2258,31 +2244,34 @@
                             transform: rotate(-2.46deg);
                           "
                           class="animable"
+                          id="elvr4v9q9d42"
                         ></rect>
                       </g>
                     </g>
                   </g>
-                  <g id="elpno1sbagcn">
+                  <g id="elcqd5cu9g3ip">
                     <rect
                       x="184.94"
                       y="285.79"
                       width="2.43"
                       height="1"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.155px 286.29px;
                         transform: rotate(-2.29061deg);
                       "
                       class="animable"
+                      id="elvadbgtghr2"
                     ></rect>
                   </g>
-                  <g id="elce89xw5c8s5">
+                  <g id="elsfyu23572pr">
                     <g
                       style="
                         opacity: 0.5;
                         transform-origin: 186.225px 286.285px;
                       "
                       class="animable"
+                      id="eltjbuppxq9qq"
                     >
                       <polygon
                         points="184.97 286.84 185.06 285.84 187.48 285.73 187.39 286.74 184.97 286.84"
@@ -2290,31 +2279,33 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 186.225px 286.285px;
                         "
-                        id="eloeu7vl8hb6"
+                        id="el4rcask4hnx9"
                         class="animable"
                       ></polygon>
                     </g>
                   </g>
-                  <g id="elu7taikfahm">
+                  <g id="elklb2hh5tkr">
                     <rect
                       x="184.83"
                       y="288.68"
                       width="2.43"
                       height="1"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.045px 289.18px;
                         transform: rotate(-2.41deg);
                       "
                       class="animable"
+                      id="ele700ko6nwzj"
                     ></rect>
                   </g>
-                  <g id="elgmv3dwss2gk">
+                  <g id="elym2fo0753ro">
                     <g
                       style="opacity: 0.5; transform-origin: 186.045px 289.18px"
                       class="animable"
+                      id="eltrbn9h3xv7c"
                     >
-                      <g id="elcdqaqbllc9h">
+                      <g id="eldi7dpb480xf">
                         <rect
                           x="184.83"
                           y="288.68"
@@ -2326,32 +2317,28 @@
                             transform: rotate(-2.41deg);
                           "
                           class="animable"
+                          id="el6bxtpfht68d"
                         ></rect>
                       </g>
                     </g>
                   </g>
                   <polygon
                     points="190.34 271.44 185.32 273.31 185.37 271.99 188.15 271.54 185.4 271.35 185.45 270.03 190.34 271.44"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 187.83px 271.67px;
-                    "
-                    id="elt60y897k6j"
+                    style="fill: #60a5fa; transform-origin: 187.83px 271.67px"
+                    id="el2sf1os9iua"
                     class="animable"
                   ></polygon>
                   <polygon
                     points="220.99 266.67 200.03 267.56 200.13 265.48 221.09 264.59 220.99 266.67"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 210.56px 266.075px;
-                    "
-                    id="el2oqchyz9zjp"
+                    style="fill: #60a5fa; transform-origin: 210.56px 266.075px"
+                    id="elnog50pdlz4m"
                     class="animable"
                   ></polygon>
-                  <g id="elx7f37rrj5kg">
+                  <g id="el1meawcornro">
                     <g
                       style="opacity: 0.7; transform-origin: 210.56px 266.075px"
                       class="animable"
+                      id="eloqm73pqrlye"
                     >
                       <polygon
                         points="220.99 266.67 200.03 267.56 200.13 265.48 221.09 264.59 220.99 266.67"
@@ -2359,39 +2346,30 @@
                           fill: rgb(255, 255, 255);
                           transform-origin: 210.56px 266.075px;
                         "
-                        id="el4iluv0ws3m"
+                        id="elznc1cyteadm"
                         class="animable"
                       ></polygon>
                     </g>
                   </g>
                   <polygon
                     points="192.71 267.74 189.64 267.88 190.88 267.09 191.22 267.4 191.59 267.08 192.71 267.74"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 191.175px 267.48px;
-                    "
-                    id="elswrlpwmuip"
+                    style="fill: #60a5fa; transform-origin: 191.175px 267.48px"
+                    id="el5jydfyk9u3"
                     class="animable"
                   ></polygon>
                   <polygon
                     points="190.76 266.99 189.52 267.79 189.61 265.95 190.76 266.99"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 190.14px 266.87px;
-                    "
-                    id="el4kb7xu80k98"
+                    style="fill: #60a5fa; transform-origin: 190.14px 266.87px"
+                    id="elt2v28u0kwe8"
                     class="animable"
                   ></polygon>
                   <polygon
                     points="192.91 265.9 192.81 267.63 191.68 266.97 192.91 265.9"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 192.295px 266.765px;
-                    "
-                    id="eli47btvf5x0d"
+                    style="fill: #60a5fa; transform-origin: 192.295px 266.765px"
+                    id="el397pc0ql8op"
                     class="animable"
                   ></polygon>
-                  <g id="elpodyf5p97s">
+                  <g id="elvwkhjiohikr">
                     <rect
                       x="191.18"
                       y="266.7"
@@ -2403,9 +2381,10 @@
                         transform: rotate(-46.6deg);
                       "
                       class="animable"
+                      id="el5xdlmrf2num"
                     ></rect>
                   </g>
-                  <g id="elmxzea2pnqwc">
+                  <g id="el333ak6pub3t">
                     <rect
                       x="191.23"
                       y="266.66"
@@ -2417,85 +2396,81 @@
                         transform: rotate(-43.45deg);
                       "
                       class="animable"
+                      id="elaozbp1jumrq"
                     ></rect>
                   </g>
                   <polygon
                     points="192.91 265.72 191.59 266.92 191.22 267.25 190.88 266.93 189.73 265.89 189.64 265.81 192.91 265.72"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 191.275px 266.485px;
-                    "
-                    id="el2i2yogh1ivm"
+                    style="fill: #60a5fa; transform-origin: 191.275px 266.485px"
+                    id="elvqzecka0fl"
                     class="animable"
                   ></polygon>
-                  <g id="ell7ptz4uh8d">
+                  <g id="elv6m1zjvwws">
                     <rect
                       x="185.4"
                       y="266.11"
                       width="2.43"
                       height="0.3"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.615px 266.26px;
                         transform: rotate(-2.43deg);
                       "
                       class="animable"
+                      id="elxgbybcxqqf8"
                     ></rect>
                   </g>
-                  <g id="elnxwsijh6z5r">
+                  <g id="el7zvhec1cnqm">
                     <rect
                       x="185.4"
                       y="266.87"
                       width="2.43"
                       height="0.3"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.615px 267.02px;
                         transform: rotate(-2.43deg);
                       "
                       class="animable"
+                      id="el0438axy7pbva"
                     ></rect>
                   </g>
-                  <g id="elw7ntcvj0dx">
+                  <g id="eld1mq7vdust7">
                     <rect
                       x="185.4"
                       y="267.64"
                       width="2.43"
                       height="0.3"
                       style="
-                        fill: rgb(64, 123, 255);
+                        fill: #60a5fa;
                         transform-origin: 186.615px 267.79px;
                         transform: rotate(-2.43deg);
                       "
                       class="animable"
+                      id="eljlr2p4a3soo"
                     ></rect>
                   </g>
                   <path
                     d="M135.51,290.7l9.07,103.68H130l-9.76-111.57h6.7A8.64,8.64,0,0,1,135.51,290.7Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 132.41px 338.595px;
-                    "
-                    id="el1h5iijbk9vo"
+                    style="fill: #60a5fa; transform-origin: 132.41px 338.595px"
+                    id="el9l5k5arqgoj"
                     class="animable"
                   ></path>
-                  <g id="eljn0ec4l8s9r">
+                  <g id="elyqdfw4dlsxh">
                     <path
                       d="M135.6,291.64l9,102.74H130l-9.76-111.57H126A9.68,9.68,0,0,1,135.6,291.64Z"
                       style="opacity: 0.2; transform-origin: 132.42px 338.595px"
                       class="animable"
+                      id="elppk3yogpzt"
                     ></path>
                   </g>
                   <path
                     d="M126,289.57l9.17,104.81h-87l-9-103.52a7.4,7.4,0,0,1,7.37-8.05h72.18A7.4,7.4,0,0,1,126,289.57Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 87.1557px 338.595px;
-                    "
-                    id="elsu8nooimv7r"
+                    style="fill: #60a5fa; transform-origin: 87.1557px 338.595px"
+                    id="el78rhv7gimno"
                     class="animable"
                   ></path>
-                  <g id="elxmbchg3h1l">
+                  <g id="eli519tbqkvqr">
                     <path
                       d="M126.11,290.71l9.07,103.67h-87L39.21,292.22a8.65,8.65,0,0,1,8.61-9.41H117.5A8.65,8.65,0,0,1,126.11,290.71Z"
                       style="
@@ -2504,18 +2479,16 @@
                         transform-origin: 87.1783px 338.595px;
                       "
                       class="animable"
+                      id="el84npe2c5eq"
                     ></path>
                   </g>
                   <path
                     d="M279.19,394.38H48.54L46,365.63h221.4a10.3,10.3,0,0,1,10.06,9.25Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 162.595px 380.005px;
-                    "
-                    id="elw3kkhic38ts"
+                    style="fill: #60a5fa; transform-origin: 162.595px 380.005px"
+                    id="elo90013xavk"
                     class="animable"
                   ></path>
-                  <g id="elz0gb8aorui">
+                  <g id="el7gaosgni5eh">
                     <path
                       d="M279.19,394.38H48.54L46,365.63h221.4a10.3,10.3,0,0,1,10.06,9.25Z"
                       style="
@@ -2524,22 +2497,21 @@
                         transform-origin: 162.595px 380.005px;
                       "
                       class="animable"
+                      id="el2rz9v5zsg6u"
                     ></path>
                   </g>
                   <path
                     d="M289.77,405.39H45.83a5.74,5.74,0,0,1-5.73-5.73h0a5.73,5.73,0,0,1,5.73-5.73H289.77a5.73,5.73,0,0,1,5.73,5.73h0A5.74,5.74,0,0,1,289.77,405.39Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 167.8px 399.66px;
-                    "
-                    id="elqcvc4e57y9m"
+                    style="fill: #60a5fa; transform-origin: 167.8px 399.66px"
+                    id="elb5snvvnqlmj"
                     class="animable"
                   ></path>
-                  <g id="elmqty342a6m">
+                  <g id="el718i0pw4yav">
                     <path
                       d="M289.77,405.39H148.16a5.73,5.73,0,0,1-5.73-5.73h0a5.72,5.72,0,0,1,5.73-5.73H289.77a5.73,5.73,0,0,1,5.73,5.73h0A5.74,5.74,0,0,1,289.77,405.39Z"
                       style="opacity: 0.2; transform-origin: 218.965px 399.66px"
                       class="animable"
+                      id="ellrdq1159wt"
                     ></path>
                   </g>
                   <polygon
@@ -2548,10 +2520,10 @@
                       fill: rgb(38, 50, 56);
                       transform-origin: 54.955px 410.305px;
                     "
-                    id="elun6fwf1giil"
+                    id="elx1bo6r09fq"
                     class="animable"
                   ></polygon>
-                  <g id="eluxkyokt9cf">
+                  <g id="elbjzorw396c">
                     <polygon
                       points="49.03 405.39 51.92 415.22 57.7 415.22 60.88 405.39 49.03 405.39"
                       style="
@@ -2560,6 +2532,7 @@
                         transform-origin: 54.955px 410.305px;
                       "
                       class="animable"
+                      id="eluod3jm9gyi"
                     ></polygon>
                   </g>
                   <polygon
@@ -2568,10 +2541,10 @@
                       fill: rgb(38, 50, 56);
                       transform-origin: 137.79px 410.305px;
                     "
-                    id="el33qm5c1vpto"
+                    id="elx0ollgrps5b"
                     class="animable"
                   ></polygon>
-                  <g id="eln2t2api38yb">
+                  <g id="els0rju9fzadj">
                     <polygon
                       points="131.86 405.39 134.75 415.22 140.53 415.22 143.72 405.39 131.86 405.39"
                       style="
@@ -2580,6 +2553,7 @@
                         transform-origin: 137.79px 410.305px;
                       "
                       class="animable"
+                      id="elfg3aw2066a"
                     ></polygon>
                   </g>
                   <polygon
@@ -2588,10 +2562,10 @@
                       fill: rgb(38, 50, 56);
                       transform-origin: 201.185px 410.305px;
                     "
-                    id="el9mhogv4eo28"
+                    id="elg3s95u8i2u"
                     class="animable"
                   ></polygon>
-                  <g id="elz2uod6x1q">
+                  <g id="eljlskxeok9im">
                     <polygon
                       points="195.26 405.39 198.15 415.22 203.93 415.22 207.11 405.39 195.26 405.39"
                       style="
@@ -2600,6 +2574,7 @@
                         transform-origin: 201.185px 410.305px;
                       "
                       class="animable"
+                      id="eli33w6ps6vxf"
                     ></polygon>
                   </g>
                   <polygon
@@ -2608,10 +2583,10 @@
                       fill: rgb(38, 50, 56);
                       transform-origin: 284.015px 410.305px;
                     "
-                    id="el7yyirdis36p"
+                    id="el5n8s1ue44m3"
                     class="animable"
                   ></polygon>
-                  <g id="el4jfsvny8ufl">
+                  <g id="ellddvvguiq5r">
                     <polygon
                       points="278.09 405.39 280.98 415.22 286.76 415.22 289.94 405.39 278.09 405.39"
                       style="
@@ -2620,42 +2595,31 @@
                         transform-origin: 284.015px 410.305px;
                       "
                       class="animable"
+                      id="elwlp18cuzk"
                     ></polygon>
                   </g>
                   <path
                     d="M105.89,278.91H99.56a.5.5,0,0,1-.5-.5.5.5,0,0,1,.5-.5h6.33a.51.51,0,0,1,.5.5A.5.5,0,0,1,105.89,278.91Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 102.725px 278.41px;
-                    "
-                    id="el628bfnxkcul"
+                    style="fill: #60a5fa; transform-origin: 102.725px 278.41px"
+                    id="elxyg5ckm0gcf"
                     class="animable"
                   ></path>
                   <path
                     d="M95.35,278.91H63.62a.5.5,0,0,1-.5-.5.51.51,0,0,1,.5-.5H95.35a.51.51,0,0,1,.5.5A.5.5,0,0,1,95.35,278.91Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 79.485px 278.41px;
-                    "
-                    id="elbc7d5ma2g6"
+                    style="fill: #60a5fa; transform-origin: 79.485px 278.41px"
+                    id="elavwiafwvvns"
                     class="animable"
                   ></path>
                   <path
                     d="M207.85,336.78a.55.55,0,0,1-.34-.13.5.5,0,0,1,0-.71l3-3.22a.5.5,0,0,1,.71,0,.51.51,0,0,1,0,.71l-3,3.22A.52.52,0,0,1,207.85,336.78Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 209.363px 334.676px;
-                    "
-                    id="el3yiiljb009"
+                    style="fill: #60a5fa; transform-origin: 209.363px 334.676px"
+                    id="el8gk0vmr878u"
                     class="animable"
                   ></path>
                   <path
                     d="M180.74,362.41a.48.48,0,0,1-.44-.28.49.49,0,0,1,.22-.67c9.26-4.69,23.95-22.23,24.1-22.41a.49.49,0,0,1,.7-.06.51.51,0,0,1,.06.71c-.6.72-15,17.87-24.41,22.65A.46.46,0,0,1,180.74,362.41Z"
-                    style="
-                      fill: rgb(64, 123, 255);
-                      transform-origin: 192.87px 350.64px;
-                    "
-                    id="el8vkdt4vqht"
+                    style="fill: #60a5fa; transform-origin: 192.87px 350.64px"
+                    id="eluxafuzsxsq"
                     class="animable"
                   ></path>
                 </g>
@@ -2734,5 +2698,37 @@
     10% 15%
   );
   border-radius: 50% 40% 60% 45% / 35% 55% 65% 50%;
+}
+svg#freepik_stories-files-sent:not(.animated) .animable {
+  opacity: 0;
+}
+svg#freepik_stories-files-sent.animated #freepik--Files--inject-17 {
+  animation: 1s 1 forwards ease-in fadeIn, 3s Infinite linear floating;
+  animation-delay: 0s, 1s;
+}
+svg#freepik_stories-files-sent.animated #freepik--Character--inject-17 {
+  animation: 1s 1 forwards ease-in fadeIn;
+  animation-delay: 0s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes floating {
+  0% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
 }
 </style>
