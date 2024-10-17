@@ -95,12 +95,12 @@
           </p>
           <div class="flex space-x-4">
             <button
-              class="px-8 py-4 bg-white/20 text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-white/30 transition duration-300 transform hover:scale-105 focus:outline-none"
+              class="px-8 py-4 bg-[#145c9e] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-pink-500 transition duration-300 transform hover:scale-105 focus:outline-none"
             >
               Scan
             </button>
             <button
-              class="px-8 py-4 bg-white/20 text-white font-semibold rounded-lg shadow-lg border-2 border-white/30 backdrop-blur-lg hover:bg-white/30 hover:border-white transition duration-300 transform hover:scale-105 focus:outline-none"
+              class="px-8 py-4 bg-[#150578] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-[#F25A88] hover:border-white transition duration-300 transform hover:scale-105 focus:outline-none"
             >
               Upload a file
             </button>
@@ -114,8 +114,13 @@
             class="blob w-[400px] h-[400px] lg:w-[550px] lg:h-[550px] bg-gradient-to-tr from-purple-400 via-pink-500 to-red-400 overflow-hidden flex justify-center items-center"
             style="position: relative; right: -20px"
           >
+         
+          
+  
             <!-- SVG Illustration inside Blob -->
+             
             <div class="w-3/4 h-3/4">
+
               <svg
                 class="animated"
                 id="freepik_stories-files-sent"
@@ -2629,6 +2634,7 @@
                     id="eluxafuzsxsq"
                     class="animable"
                   ></path>
+                  
                 </g>
                 <defs>
                   <filter id="active" height="200%">
@@ -2684,11 +2690,32 @@
                 </defs>
               </svg>
             </div>
+
           </div>
         </div>
+        <!--Left clooud chape
+         Cloud shape
+            <div class="cloud">
+        <div class="blobcloud"> 
+            <svg 
+                width="720px" 
+                height="720px" 
+                viewBox="0 0 220 120" 
+                xmlns="http://www.w3.org/2000/svg">
+                <path 
+                    d="M60 70 C40 70, 40 50, 60 50 C70 30, 110 30, 110 50 C140 50, 140 70, 110 70 C110 90, 60 90, 60 70 Z" 
+                    fill="white" 
+                    stroke="#ccc" 
+                    stroke-width="2" />
+            </svg>
+        </div>
+    </div>-->   
+
+            </div> 
+
+          </div>
       </div>
-    </div>
-  </div>
+   
 </template>
 
 <style>
