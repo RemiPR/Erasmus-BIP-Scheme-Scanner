@@ -73,12 +73,19 @@
 
     <!-- Main Content -->
     <div
-      class="h-[calc(100vh-64px)] bg-gradient-to-r from-[#4dbed2] to-indigo-500 flex items-center px-8"
+      class="h-[calc(100vh-64px)] bg-gradient-to-r from-[#4dbed2] to-indigo-500 flex items-center px-8 overflow-hidden"
     >
       <!-- Content Wrapper -->
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 w-full items-center">
+      <div
+        class="relative grid grid-cols-1 lg:grid-cols-2 gap-16 w-full items-center"
+      >
+        <!-- Large Circle Shape positioned at the bottom-left corner -->
+        <div
+          class="absolute bottom-[-32rem] left-[18rem] w-[600px] h-[600px] lg:w-[600px] lg:h-[600px] bg-[#D963C5] rounded-full"
+        ></div>
+
         <!-- Left Column: Text and Buttons with more margin -->
-        <div class="text-left space-y-6 lg:pr-16 lg:ml-10">
+        <div class="relative text-left space-y-6 lg:pr-16 lg:ml-10">
           <h1 class="text-5xl lg:text-6xl font-extrabold text-white">
             Scheme Scanner
           </h1>
