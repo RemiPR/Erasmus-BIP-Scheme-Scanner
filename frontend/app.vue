@@ -1,5 +1,7 @@
 <template>
-  <div>
-    <Landing />
-  </div>
+  <NuxtLayout name="default">
+    <NuxtPage />
+  </NuxtLayout>
 </template>
+
+<script></script>
