@@ -89,18 +89,20 @@
           <h1 class="text-5xl lg:text-6xl font-extrabold text-white">
             Scheme Scanner
           </h1>
-          <p class="text-lg text-gray-200">
-            Scan and upload your PFD, P&ID schemes with ease. Our tool is built
-            to handle complex structures efficiently.
+          <p class="text-xl text-gray-200 leading-loose">
+            Scan and upload your PFD, P&ID schemes with ease.
+            <span class="block"
+              >Our tool is built to handle complex structures efficiently.</span
+            >
           </p>
           <div class="flex space-x-4">
             <button
-              class="px-8 py-4 bg-[#145c9e] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-pink-500 transition duration-300 transform hover:scale-105 focus:outline-none"
+              class="px-8 py-4 bg-[#DD0F82] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-pink-500 transition duration-300 transform hover:scale-105 focus:outline-none"
             >
               Scan
             </button>
             <button
-              class="px-8 py-4 bg-[#150578] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-[#F25A88] hover:border-white transition duration-300 transform hover:scale-105 focus:outline-none"
+              class="px-8 py-4 bg-[#626AEF] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-[#F25A88] hover:border-white transition duration-300 transform hover:scale-105 focus:outline-none"
             >
               Upload a file
             </button>
@@ -114,13 +116,9 @@
             class="blob w-[400px] h-[400px] lg:w-[550px] lg:h-[550px] bg-gradient-to-tr from-purple-400 via-pink-500 to-red-400 overflow-hidden flex justify-center items-center"
             style="position: relative; right: -20px"
           >
-         
-          
-  
             <!-- SVG Illustration inside Blob -->
-             
-            <div class="w-3/4 h-3/4">
 
+            <div class="w-3/4 h-3/4">
               <svg
                 class="animated"
                 id="freepik_stories-files-sent"
@@ -2634,7 +2632,6 @@
                     id="eluxafuzsxsq"
                     class="animable"
                   ></path>
-                  
                 </g>
                 <defs>
                   <filter id="active" height="200%">
@@ -2690,7 +2687,6 @@
                 </defs>
               </svg>
             </div>
-
           </div>
         </div>
         <!--Left clooud chape
@@ -2709,13 +2705,10 @@
                     stroke-width="2" />
             </svg>
         </div>
-    </div>-->   
-
-            </div> 
-
-          </div>
+    </div>-->
       </div>
-   
+    </div>
+  </div>
 </template>
 
 <style>
