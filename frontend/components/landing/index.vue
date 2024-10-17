@@ -110,7 +110,7 @@
               Scan
             </button>
             <button
-              class="px-8 py-4 bg-[#626AEF] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-[#F25A88] hover:border-white transition duration-300 transform hover:scale-105 focus:outline-none"
+              class="px-8 py-4 bg-[#626AEF] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-[#303AEB] hover:border-white transition duration-300 transform hover:scale-105 focus:outline-none"
             >
               Upload a file
             </button>
@@ -125,7 +125,6 @@
             style="position: relative; right: -20px"
           >
             <!-- SVG Illustration inside Blob -->
-
             <div class="w-3/4 h-3/4">
               <svg
                 class="animated"
@@ -2723,14 +2722,14 @@
 /* Blob Shape with Left Edge Sticking Out More */
 .blob {
   clip-path: polygon(
-    45% 0%,
-    90% 10%,
-    100% 50%,
+    -20% 0%,
+    90% 0%,
+    150% 50%,
     85% 90%,
     50% 100%,
-    20% 90%,
-    0% 50%,
-    10% 15%
+    -50% 90%,
+    -100% 60%,
+    -15% 15%
   );
   border-radius: 50% 40% 60% 45% / 35% 55% 65% 50%;
 }
