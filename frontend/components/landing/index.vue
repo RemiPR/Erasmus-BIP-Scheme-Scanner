@@ -2696,23 +2696,7 @@
             </div>
           </div>
         </div>
-        <!--Left clooud chape
-         Cloud shape
-            <div class="cloud">
-        <div class="blobcloud"> 
-            <svg 
-                width="720px" 
-                height="720px" 
-                viewBox="0 0 220 120" 
-                xmlns="http://www.w3.org/2000/svg">
-                <path 
-                    d="M60 70 C40 70, 40 50, 60 50 C70 30, 110 30, 110 50 C140 50, 140 70, 110 70 C110 90, 60 90, 60 70 Z" 
-                    fill="white" 
-                    stroke="#ccc" 
-                    stroke-width="2" />
-            </svg>
-        </div>
-    </div>-->
+      
       </div>
     </div>
   </div>
@@ -2722,14 +2706,14 @@
 /* Blob Shape with Left Edge Sticking Out More */
 .blob {
   clip-path: polygon(
-    -20% 0%,
-    90% 0%,
-    150% 50%,
+    45% 0%,
+    90% 10%,
+    100% 50%,
     85% 90%,
     50% 100%,
-    -50% 90%,
-    -100% 60%,
-    -15% 15%
+    20% 90%,
+    0% 50%,
+    10% 15%
   );
   border-radius: 50% 40% 60% 45% / 35% 55% 65% 50%;
 }
