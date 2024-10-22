@@ -33,16 +33,18 @@
             >
           </p>
           <div class="flex space-x-4">
-            <NuxtLink to="/scan"
+            <NuxtLink
+              to="/scan"
               class="px-8 py-4 bg-[#DD0F82] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-pink-500 transition duration-300 transform hover:scale-105 focus:outline-none"
             >
               Scan
-          </NuxtLink>
-            <button
+            </NuxtLink>
+            <NuxtLink
+              to="/upload"
               class="px-8 py-4 bg-[#626AEF] text-white font-semibold rounded-lg shadow-lg backdrop-blur-lg hover:bg-[#303AEB] hover:border-white transition duration-300 transform hover:scale-105 focus:outline-none"
             >
               Upload a file
-            </button>
+            </NuxtLink>
           </div>
         </div>
 

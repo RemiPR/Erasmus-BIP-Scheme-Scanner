@@ -1,41 +1,64 @@
 <template>
-  <div class="h-screen flex items-center justify-center bg-gradient-to-r from-[#4dbed2] to-[#4f46e5] px-4 relative font-sans">
-    <div class="relative flex">
-      <div class="relative">
-        <video
-          ref="video"
-          autoplay
-          muted
-          playsinline
-          class="w-[640px] h-[480px] border-2 border-black shadow-lg mr-5"
-        ></video>
-        <canvas ref="canvas" class="absolute top-0 left-0"></canvas>
-      </div>
-      <div
-        id="detected-items"
-        class="w-[320px] bg-white border border-gray-300 p-2.5 max-h-[480px] overflow-y-auto shadow-md"
-      >
-        <h2 class="text-center mb-2.5 text-xl">Detected Objects</h2>
-        <ul class="list-none p-0">
-          <li
-            v-for="(item, index) in detectedItemsArray"
-            :key="index"
-            class="p-2 border-b border-gray-300 text-base"
+  <div
+    class="h-screen bg-gradient-to-r from-[#4dbed2] to-indigo-500 px-8 py-6 font-sans"
+  >
+    <div class="max-w-7xl mx-auto">
+      <!-- Header -->
+      <h1 class="text-4xl font-extrabold text-white mb-8">Object Detection</h1>
+
+      <!-- Main Content -->
+      <div class="relative flex flex-col lg:flex-row gap-8 items-start">
+        <!-- Video Container -->
+        <div class="relative flex-1">
+          <div
+            class="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-white/20"
           >
-            {{ item.name }} - {{ item.confidence }}% confidence
-          </li>
-        </ul>
+            <video
+              ref="video"
+              autoplay
+              muted
+              playsinline
+              class="w-full h-full"
+            ></video>
+            <canvas ref="canvas" class="absolute top-0 left-0"></canvas>
+          </div>
+        </div>
+
+        <!-- Detection Results -->
+        <div
+          class="w-full lg:w-[400px] bg-white/10 backdrop-blur-lg rounded-2xl p-6 shadow-xl"
+        >
+          <h2 class="text-2xl font-bold text-white mb-4">Detected Objects</h2>
+          <div class="space-y-3">
+            <div
+              v-for="(item, index) in detectedItemsArray"
+              :key="index"
+              class="bg-white/20 backdrop-blur rounded-lg p-4 border border-white/30"
+            >
+              <div class="flex justify-between items-center">
+                <span class="text-lg font-semibold text-white">{{
+                  item.name
+                }}</span>
+                <span
+                  class="px-3 py-1 rounded-full text-sm font-medium"
+                  :class="getConfidenceClass(item.confidence)"
+                >
+                  {{ item.confidence }}%
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script setup>
-
 useHead({
   script: [
     {
-      src: 'https://cdn.roboflow.com/0.2.26/roboflow.js',
+      src: "https://cdn.roboflow.com/0.2.26/roboflow.js",
       async: true,
     },
   ],
@@ -65,14 +88,14 @@ onMounted(() => {
 });
 
 onBeforeUnmount(() => {
-  window.removeEventListener('resize', resizeCanvas);
+  window.removeEventListener("resize", resizeCanvas);
 });
 
 const initializeApp = async () => {
   await startVideoStream();
   await loadModel();
   detectFrame();
-  window.addEventListener('resize', resizeCanvas);
+  window.addEventListener("resize", resizeCanvas);
 };
 
 const startVideoStream = async () => {
@@ -80,7 +103,7 @@ const startVideoStream = async () => {
     const stream = await navigator.mediaDevices.getUserMedia({
       audio: false,
       video: {
-        facingMode: 'environment',
+        facingMode: "environment",
       },
     });
     video.value.srcObject = stream;
@@ -89,17 +112,17 @@ const startVideoStream = async () => {
       resizeCanvas();
     };
   } catch (error) {
-    console.error('Error accessing webcam:', error);
+    console.error("Error accessing webcam:", error);
   }
 };
 
 const loadModel = async () => {
-  const publishable_key = 'rf_YEEYSbkz0HVcso1qNYkXykwRyMe2';
-  const toLoad = { model: 'yolo-qqp8p', version: 3 };
+  const publishable_key = "rf_YEEYSbkz0HVcso1qNYkXykwRyMe2";
+  const toLoad = { model: "yolo-qqp8p", version: 3 };
   try {
     model = await window.roboflow.auth({ publishable_key }).load(toLoad);
   } catch (error) {
-    console.error('Error loading model:', error);
+    console.error("Error loading model:", error);
   }
 };
 
@@ -116,7 +139,7 @@ const detectFrame = () => {
       requestAnimationFrame(detectFrame);
     })
     .catch((e) => {
-      console.error('Detection error:', e);
+      console.error("Detection error:", e);
       requestAnimationFrame(detectFrame);
     });
 };
@@ -150,7 +173,7 @@ const updateDetectedItems = (predictions) => {
 
 const renderPredictions = (predictions) => {
   if (!ctx) {
-    ctx = canvas.value.getContext('2d');
+    ctx = canvas.value.getContext("2d");
   }
   ctx.clearRect(0, 0, canvas.value.width, canvas.value.height);
 
@@ -163,27 +186,53 @@ const renderPredictions = (predictions) => {
     const left = x - width / 2;
     const top = y - height / 2;
 
-    ctx.strokeStyle = prediction.color || 'red';
-    ctx.lineWidth = 2;
+    // Draw box
+    ctx.strokeStyle = prediction.color || "#DD0F82";
+    ctx.lineWidth = 3;
     ctx.strokeRect(left, top, width, height);
 
-    ctx.fillStyle = '#fff';
-    ctx.fillText(
-      `${prediction.class} - ${Math.round(prediction.confidence * 100)}%`,
-      left,
-      top + height + 10
-    );
+    // Draw label background
+    const label = `${prediction.class} - ${Math.round(
+      prediction.confidence * 100
+    )}%`;
+    ctx.font = "bold 16px Inter, sans-serif";
+    const textMetrics = ctx.measureText(label);
+    const padding = 5;
+
+    ctx.fillStyle = "rgba(0, 0, 0, 0.7)";
+    ctx.fillRect(left, top - 30, textMetrics.width + padding * 2, 24);
+
+    // Draw label text
+    ctx.fillStyle = "#ffffff";
+    ctx.fillText(label, left + padding, top - 12);
   });
+};
+// Add this new function for confidence score styling
+const getConfidenceClass = (confidence) => {
+  if (confidence >= 90) {
+    return "bg-green-500 text-white";
+  } else if (confidence >= 70) {
+    return "bg-yellow-500 text-white";
+  } else {
+    return "bg-red-500 text-white";
+  }
 };
 
 const resizeCanvas = () => {
   if (video.value) {
     canvas.value.width = video.value.videoWidth;
     canvas.value.height = video.value.videoHeight;
-    canvas.value.style.position = 'absolute';
-    canvas.value.style.top = '0';
-    canvas.value.style.left = '0';
-    ctx = canvas.value.getContext('2d');
+    canvas.value.style.position = "absolute";
+    canvas.value.style.top = "0";
+    canvas.value.style.left = "0";
+    ctx = canvas.value.getContext("2d");
   }
 };
 </script>
+
+<style>
+/* Add any additional styles here */
+.backdrop-blur-lg {
+  backdrop-filter: blur(12px);
+}
+</style>
