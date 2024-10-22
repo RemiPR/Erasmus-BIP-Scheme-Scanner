@@ -7,8 +7,9 @@ Scheme Scanner is a full-stack web application designed to scan and analyze PFD 
 ## 📑 Table of Contents
 - ⭐ [Features](#features)
 - 🛠️ [How It Works](#how-it-works)
+- 🔧 [Technical Implementation](#technical-implementation)
 - 💻 [Installation](#installation)
-- 📱 [Usage](#usage)
+- 📱 [How To Use](#how-to-use)
   - 📸 [Live Scan](#live-scan)
   - 📤 [File Upload](#file-upload)
 - 🚀 [Technology Stack](#technology-stack)
@@ -23,6 +24,29 @@ Scheme Scanner is a full-stack web application designed to scan and analyze PFD 
 Scheme Scanner uses a custom-built machine learning model that has been trained to identify and analyze schemes. You can either scan schemes live via your camera or upload them as files to get instant results. The model processes the images in the background and displays the relevant information to the user.
 
 ![How It Works](https://via.placeholder.com/400)
+
+## 🔧 Technical Implementation
+### Template Structure
+The HTML structure includes:
+* A video element to display the camera feed
+* A canvas element overlaying the video for rendering detection results
+* A section for displaying the detected objects
+
+### Script Architecture
+The logic is organized into several key areas:
+* **References**: Defines `video` and `canvas` references to interact with the DOM elements
+* **State Management**: Uses a reactive map to manage detected items
+* **Lifecycle Hooks**: Initializes the application when the component is mounted and cleans up on unmounting
+* **Detection Logic**: Functions for starting the video stream, loading the model, detecting frames, updating detected items, and rendering predictions
+
+### Core Functions
+* `initializeApp()`: Initializes the application by starting the video stream and loading the model
+* `startVideoStream()`: Accesses the webcam and sets the video source
+* `loadModel()`: Loads the YOLO model for object detection from Roboflow
+* `detectFrame()`: Captures a frame from the video and runs detection, updating results
+* `updateDetectedItems(predictions)`: Updates the state with detected items and their confidence levels
+* `renderPredictions(predictions)`: Draws bounding boxes and labels on the canvas for detected objects
+* `resizeCanvas()`: Adjusts the canvas size based on the video dimensions
 
 ## 💻 Installation
 To install and run Scheme Scanner locally:
@@ -47,7 +71,7 @@ npm install
 npm run dev
 ```
 
-## 📱 Usage
+## 📱 How To Use
 
 ### 📸 Live Scan
 1. Open the application and select the option to scan schemes via your camera.
