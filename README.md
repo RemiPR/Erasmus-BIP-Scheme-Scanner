@@ -88,17 +88,47 @@ npm run dev
 
 ## 🔧 Technical Implementation
 ### Template Structure
-The HTML structure includes:
-* A video element to display the camera feed
-* A canvas element overlaying the video for rendering detection results
-* A section for displaying the detected objects
+Components
+* **svgAnimation.vue**: This component is responsible for handling SVG-based animations displayed on the landing page.
+
+Pages
+* **index.vue (Landing Page)**: Serves as the main entry point to the application, featuring introductory content
+  and providing navigation to key functionalities such as real-time scanning and image uploaging for object detection.
+* **scan.vue**: Implements real-time object detection through the integration of the user's webcam,
+  allowing for live scanning and recognition of objects.
+* **upload.vue**: Facilitates the upload of images, enabling object detection to be performed on the uploaded files.
+
+Public Folder
+* Contains essential assets, including the logo, landing page images, and animations.
+  These are utilized for both documentation purposes and in the user interface.
+
+Layouts
+* **default.voe**: Defines the overall layour structure, incorporating a navigation bar and global design components
+  that are consistent across the application.
 
 ### Script Architecture
-The logic is organized into several key areas:
-* **References**: Defines `video` and `canvas` references to interact with the DOM elements
-* **State Management**: Uses a reactive map to manage detected items
-* **Lifecycle Hooks**: Initializes the application when the component is mounted and cleans up on unmounting
-* **Detection Logic**: Functions for starting the video stream, loading the model, detecting frames, updating detected items, and rendering predictions
+
+The app's logic is modularized into the following core areas:
+
+References
+* **DOM Elements**: Manages references to video and canvas elements for rendering the webcam feed and drawing bounding boxes, alongside state management for detected items.
+
+State Management
+* **Reactive Maps and Refs**: Handle object detection, webcam feed, and canvas rendering.
+* **Computed Properties**: Convert reactive maps into arrays for easier manipulation within the template.
+
+Lifecycle Hooks
+* **onMounted**: Initializes the video feed, loads the YOLO object detection model from Roboflow, and sets up continuous detection.
+* **onBeforeUnmount**: Cleans up by removing event listeners.
+
+Detection Logic
+
+* **initializeApp()**: Starts the video stream and loads the YOLO model for real-time detection.
+* **detectFrame()**: Captures video frames for object detection.
+* **updateDetectedItems(predictions)**: Updates detected items based on predictions from the model.
+* **renderPredictions(predictions)**: Draws bounding boxes and labels for detected objects on the canvas.
+* **resizeCanvas()**: Aligns the canvas size with the video for accurate rendering.
+
 
 ### Core Functions
 * `initializeApp()`: Initializes the application by starting the video stream and loading the model
