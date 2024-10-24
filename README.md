@@ -131,13 +131,63 @@ Detection Logic
 
 
 ### Core Functions
-* `initializeApp()`: Initializes the application by starting the video stream and loading the model
-* `startVideoStream()`: Accesses the webcam and sets the video source
-* `loadModel()`: Loads the YOLO model for object detection from Roboflow
-* `detectFrame()`: Captures a frame from the video and runs detection, updating results
-* `updateDetectedItems(predictions)`: Updates the state with detected items and their confidence levels
-* `renderPredictions(predictions)`: Draws bounding boxes and labels on the canvas for detected objects
-* `resizeCanvas()`: Adjusts the canvas size based on the video dimensions
+
+Video Stream
+
+* **startVideoStream()**: Accesses the webcam, sets it as the video source, and adjusts the canvas for rendering object detection results.
+
+Model Loading
+
+* **loadModel()**: Loads the YOLO object detection model from Roboflow using the provided publishable key.
+
+Object Detection
+
+* **detectFrame()**: Continuously detects objects in video frames, updating the state with their names and confidence levels.
+
+State and Render Updates
+
+* **updateDetectedItems(predictions)**: Tracks detected objects, updating their names, confidence levels, and visibility based on timestamps.
+* **renderPredictions(predictions)**: Draws bounding boxes and labels for each detected object on the canvas.
+* **getConfidenceClass(confidence)**: Applies dynamic color classes (green, yellow, red) based on detection confidence levels.
+
+File Upload and Image Processing
+
+* **uploadFile()**: Manages image uploads to Cloudinary, retrieving the URL for further processing.
+* **processImage()**: Uses the YOLO model to detect objects in the uploaded image and draws bounding boxes around them.
+
+### Frontend Pages Breakdown
+1. **Landing Page (index.vue)**
+   
+* **Video Animation**: Integrates a background animation using the .webm video format.
+* **Navigation**: Buttons provide navigation to the real-time object detection page (scan.vue) and the image upload page (upload.vue).
+* **Visual Design**: Utilizes Tailwind CSS for gradients and blob shapes, giving the page a modern and fluid look.
+   
+2. Real-time Object Detection (scan.vue)
+
+* **Video Feed**: Displays the live webcam feed with a canvas overlay for real-time object detection (bounding boxes around detected objects).
+* **Detection Results**: A list of detected objects is shown, including each object's name and confidence score.
+* **Responsive Layout**: Ensures an optimal experience across mobile and desktop devices.
+   
+3. Image Upload and Detection (upload.vue)
+   
+* **Image Upload**: Allows users to upload images for object detection.
+* **Image Preview**: Displays the uploaded image with bounding boxes overlaid for detected objects.
+* **Detection List**: Shows the detected objects and their confidence levels.
+
+###  Styles and Design
+The project utilizes Tailwind CSS for all styling. Key design elements include:
+
+* **Background Gradients**: Smooth transitions from light blue to purple for a modern, polished look.
+* **Blob Shapes**: Dynamic, organic shapes that break the grid layout, adding a fluid and visually appealing design.
+* **Responsiveness**: The grid layout adjusts seamlessly across various screen sizes, ensuring an optimal user experience on both desktop and mobile devices.
+
+###  Dependencies
+
+* **Nuxt3**: Used for server-side rendering and modern Vue 3-based development.
+* **Tailwind CSS**: Utility-first CSS framework for creating a responsive UI.
+* **Roboflow**: Machine learning API for integrating YOLO object detection.
+* **Cloudinary**: Manages image uploads and storage, used in the upload.vue component for object detection.
+
 
 ## 💡 Challenges and Solutions
 The development journey of Scheme Scanner came with several problems that significantly shaped the final product:
