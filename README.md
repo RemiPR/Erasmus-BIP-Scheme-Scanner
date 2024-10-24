@@ -63,7 +63,7 @@ docker-compose up
 ```
 **7. Open a browser of your choice(Google Chrome recommended) and go to localhost:3000**
 
-### Slower way, more manual way to install and run Scheme Scanner locally:
+### Slower, more manual way to install and run Scheme Scanner locally:
 
 **1. if not installed, install git:**  
 [https://git-scm.com/download/win](https://git-scm.com/download/win)  
