@@ -22,7 +22,6 @@ Scheme Scanner is a full-stack web application designed to scan and analyze PFD 
 - **File Upload**: Upload files containing schemes for scanning.
 - **Machine Learning Model**: Trained on over 9k images for more precise detection.
 - **User-Friendly Interface**: Simple and intuitive interface for easy use.
--
 
 ## 🛠️ How It Works
 
@@ -30,7 +29,41 @@ Scheme Scanner uses a custom-built machine learning model that has been trained 
 
 ## 💻 Installation
 
-To install and run Scheme Scanner locally:
+### Easier, more automated way to install with good computer only(minimum 4 CPU cores and 8 GB RAM):
+
+**1. Install Docker Desktop and login. After login minimise the app and do not close it:**  
+[https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64)  
+<br>
+
+**2. Open an IDE of your choice (Visual Studio Code preferably.) and open your terminal with git bash. Use cd command to move to your desired location where you want to download the project.**  
+<br>
+
+**3. Clone the repository:**
+
+```bash
+git clone https://github.com/RemiPR/Erasmus-BIP-Scheme-Scanner.git
+```
+
+**4. Navigate to the project directory:**
+
+```bash
+cd Erasmus-BIP-Scheme-Scanner
+```
+
+**5. Install the dependencies using Docker inside the IDE terminal**
+
+```bash
+docker-compose build --no-cache
+```
+
+**6. Once the installation is finished, start the local development server:**
+
+```bash
+docker-compose up
+```
+**7. Open a browser of your choice(Google Chrome recommended) and go to localhost:3000**
+
+### Slower way, more manual way to install and run Scheme Scanner locally:
 
 **1. if not installed, install git:**  
 [https://git-scm.com/download/win](https://git-scm.com/download/win)  
@@ -66,6 +99,8 @@ npm install
 ```bash
 npm run dev
 ```
+
+**8. Open a browser of your choice(Google Chrome recommended) and go to localhost:3000**
 
 ## 📱 How To Use
 
@@ -103,7 +138,7 @@ npm run dev
 
 ## 🔧 Technical Implementation
 
-### Template Structure
+### Front-end Structure
 
 Components
 
