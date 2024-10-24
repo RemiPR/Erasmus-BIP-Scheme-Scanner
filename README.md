@@ -192,8 +192,6 @@ The project utilizes Tailwind CSS for all styling. Key design elements include:
 ## 💡 Challenges and Solutions
 The development journey of Scheme Scanner came with several problems that significantly shaped the final product:
 
-- Initial Setup: At first, we aimed to integrate OpenCV with TensorFlow for object detection. However, this approach quickly became complex due to the need for extensive customization and performance tuning.
-
 - Model Selection: After facing difficulties with OpenCV and TensorFlow, we switched to Roboflow and YOLO for object detection, which provided a more streamlined setup and better-suited architecture for real-time detection tasks.
 
 - Training the Model: Training the YOLO model required considerable effort, taking over 5 hours to process more than 9,000 images. This extensive dataset was necessary to improve accuracy and ensure that the model could reliably recognize diverse scheme types.
