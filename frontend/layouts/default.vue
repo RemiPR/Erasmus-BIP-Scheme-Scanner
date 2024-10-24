@@ -8,9 +8,9 @@
         <!-- Logo and Navigation Links -->
         <div class="flex items-center space-x-8">
           <!-- Logo Image -->
-          <div class="flex items-center space-x-4">
+          <NuxtLink to="/" class="flex items-center space-x-4">
             <img src="/logo.svg" alt="logo" class="h-8 w-auto" />
-          </div>
+          </NuxtLink>
 
           <!-- Navigation Links -->
           <div class="flex space-x-8 font-semibold text-lg">
